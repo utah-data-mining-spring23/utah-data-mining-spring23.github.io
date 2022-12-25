@@ -30,7 +30,7 @@ MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); will be recorded
 {% endif %}
 
 
-We will use **<span style="color: red;">Canvas</span>** for:
+We will use **<span style="color: black;">Canvas</span>** for:
 * **Syllabus** (office hours, grading criteria, policies, etc.) 
 * **Announcements** 
 * **Discussions** (questions on homework, projects, material covered in class, schedule, etc.)
@@ -39,7 +39,7 @@ We will use **<span style="color: red;">Canvas</span>** for:
 
 Please use the discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. 
 
-Through **<span style="color: red-300;">this website</span>** we will share:
+Through **<span style="color: black;">this website</span>** we will share:
 * **Schedule**, 
 * **Lecture notes**, 
 * **Lecture videos**, 
