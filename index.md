@@ -40,9 +40,9 @@ We will use **<span style="color: red;">Canvas</span>** for:
 Please use the discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. 
 
 Through **<span style="color: red;">this website</span>** we will share:
-* The **schedule**, 
-* Links to class **notes**, 
-* Links to **videos**, 
+* **Schedule**, 
+* **Lecture notes**, 
+* **Lecture videos**, 
 
 Take advantage of the instructor and TA office hours. We will work hard to be accessible to students. Don’t be shy if you don’t understand something: come to office hours, send emails, or speak up in class!
 
