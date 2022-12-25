@@ -39,7 +39,7 @@ We will use **<span style="color: red;">Canvas</span>** for:
 
 Please use the discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. 
 
-Through **<span style="color: red;">this website</span>** we will share:
+Through **<span style="color: red-300;">this website</span>** we will share:
 * **Schedule**, 
 * **Lecture notes**, 
 * **Lecture videos**, 
