@@ -32,9 +32,18 @@ MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); will be recorded
 
 ## Communication
 
-We will use **Canvas** for **Announcements**, **Discussions** (for instance questions on homework, projects, material covered in class, schedule, etc.), **turning in Assignments and Project** components, and for **communicating grades**. Please use the discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. 
+We will use **Canvas** for:
+* **Announcements** 
+* **Discussions** (for instance questions on homework, projects, material covered in class, schedule, etc.)
+* **Turning in Assignments and Project** components,
+* **Communicating grades**. 
 
-The **schedule**, links to class **notes**, and links to **videos**, will be through **this website**.
+Please use the discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. 
+
+Through **this website** we will share:
+* The **schedule**, 
+* Links to class **notes**, 
+* Links to **videos**, 
 
 Take advantage of the instructor and TA office hours. We will work hard to be accessible to students. Don’t be shy if you don’t understand something: come to office hours, send emails, or speak up in class!
 
