@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Deep Mining
+title: Data Mining
 nav_exclude: true
 toc: true
 seo:
   type: Courses
-  name: Deep Mining
+  name: Data Mining
 ---
 
 # {{ site.tagline }}
