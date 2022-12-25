@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Local Explanations for Deep Learning Models
+title: Deep Mining
 nav_exclude: true
 toc: true
 seo:
   type: Courses
-  name: Local Explanations for Deep Learning Models
+  name: Deep Mining
 ---
 
 # {{ site.tagline }}
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-TuTh / 09:10AM-10:30AM, [1230 WEB](https://bit.ly/3wBNjzE); **in-person only**
+MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); (will be recorded)
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -29,28 +29,24 @@ TuTh / 09:10AM-10:30AM, [1230 WEB](https://bit.ly/3wBNjzE); **in-person only**
 {% endfor %}
 {% endif %}
 
-Office hours are at **11:00am Thursdays in Room 2166 in [MEB](https://goo.gl/maps/4QvSpfwDaoLD3aHu7)**.
 
-## Announcements
+## Communication
 
-Please keep track of Teams and Canvas for announcements. 
+We will use **Canvas** for **Announcements**, **Discussions** (for instance questions on homework, projects, material covered in class, schedule, etc.), **turning in Assignments and Project** components, and for **communicating grades**. Please use the discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. 
+
+The **schedule**, links to class **notes**, and links to **videos**, will be through **this website**.
+
+Take advantage of the instructor and TA office hours. We will work hard to be accessible to students. Don’t be shy if you don’t understand something: come to office hours, send emails, or speak up in class!
 
 ## Description
 
-Although neural models have obtained great success across various machine learning (ML) tasks in recent years, they are poorly understood. Consequently, people (including ML experts) have little perception of how to control ML systems they interact with and are typically left wondering:
+Data mining is the study of efficiently finding structures and patterns in large data sets. We will focus on several aspects of this: (1) converting from a messy and noisy raw data set to a structured and abstract one, (2) applying scalable and probabilistic algorithms to these well-structured abstract data sets, and (3) formally modeling and understanding the error and other consequences of parts (1) and (2), including choice of data representation and trade-offs between accuracy and scalability. These steps are essential for training as a data scientist.
 
-* Which part of the input led to assigning this label?            
-* How to change the answer to another?                           
-* In plain English, why is this input assigned this label?                        
-* Which training examples caused the prediction?                      
+Algorithms, programming, probability, and linear algebra are required tools for understanding these approaches.
 
-In the first part of this course, we'll go over methods that aim to address these questions. These methods are developed by ML researchers, usually without involving experts in other fields and human subjects such as doctors or fact checkers. 
+Topics will include: similarity search, clustering, regression/dimensionality reduction, graph analysis, PageRank, and small space summaries. We will also cover several recent developments, and the application of these topics to modern applications, often relating to large internet-based companies.
 
-In the second part of this course, we will revisit evaluation of these methods and focus on how to develop and evaluate methods that best accomplish a specific utility of explanations (e.g., they speed-up information search of a fact checker collaborating with a ML model, reduce cognitive load, etc.). Such methods are developed by considering how people explain between each other (extensively studied by social sciences) and conducting application-grounded human-subject evaluations that are common in HCI.  
-
-Methods and examples in this course will heavily focus on **Natural Language Processing (NLP)** and **Computer Vision (specifically images)**. This course will _not_ cover global methods that analyze models' average behavior and internals. 
-
-**You must enroll in the class or audit.**
+Upon completion, students should be able to read, understand, and implement ideas from many data mining research papers.
 
 ## Calendar
 
