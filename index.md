@@ -33,6 +33,7 @@ MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); will be recorded
 ## Communication
 
 We will use **Canvas** for:
+* **Syllabus** (grading criteria, policies, etc.) 
 * **Announcements** 
 * **Discussions** (for instance questions on homework, projects, material covered in class, schedule, etc.)
 * **Turning in Assignments and Project** components,
