@@ -5,101 +5,248 @@ include_nav_home: true
 
 # Project
 
-The class project is an avenue for trying out ideas that you have seen in the class in a practical setting. Project groups should consist of 1-2 students. If your project had two members, your final report should explain what each of you did.  Ideally, the project idea could come from you and you should explore some new directions. It could be about something that you are interested in or working on already. Of course, we are willing to brainstorm about the project with you and offer suggestions. 
+Your project will consist of five elements.  
 
-Irrelevant after the project proposals: **[This document](https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit?usp=sharing)** is meant as a starting point for generating **project ideas** - you are welcome to explore topics beyond the ones outlined here. We encourage you to choose a topic of interest, read a few related papers, and think of possible extensions. Keep in mind some topics have more available data than others. [This website](https://exnlpdatasets.github.io/) collects datasets for Explainable NLP. 
+* Project Proposal: Due January 25
+* Data Collection Report: Due February 15
+* Intermediate Report: Due March 20
+* Final Report: Due April 12
+* Poster Outline: Due April 17
+* Poster Final Version: Due April 20
+* Poster Presentation: April 24 | (3:30pm - 5:30pm or 6:00pm)
 
-## Questions to consider in choosing a topic
+As in any research in order to get people to pay attention, you will need to be able to present your work efficiently in written and oral form.  
 
-Projects do not need to be a standard model-driven task. Students are welcome to explore a range of types of projects including:
-* New explainability method for an existing task               
-* New evaluation of an explanability method                  
-* Collecting human-authored explanations for supervision               
-* Survey 
-    * To evaluate such projects I’ll follow [TACL](https://transacl.org/ojs/index.php/tacl/about/submissions): "To meet the bar of originality and significance, surveys should be such that even experts in the domain covered will say “I learned something interesting from this paper."  They should thus not simply be a descriptive enumeration of the contents of papers, but draw broad themes and (importantly) provide new insights on the topic.  These insights should be major contributions of the submission."
-    * See [Wiegreffe and Marasović (2021)](https://arxiv.org/abs/2102.12060) for an example            
-* Formalization
-    * See [Jacovi et al. (2021)](https://arxiv.org/abs/2010.07487) and [Jacovi and Goldberg (2020)](https://aclanthology.org/2020.acl-main.386/) for examples                         
-* Replication                
-    * Applying an existing model to a different domain or data set or modality                
-    * e.g. Low resource NLP -- extend any of the papers below to a multilingual / low resource setting
+You may work in teams of 2 or 3, but the amount of work you perform will need to scale accordingly.  Teams of size 1 might be allowed under unusual circumstances with special permission from the instructor.  
+All students will need to have clearly defined roles as demonstrated in the final report and presentation.  
+I highly recommend groups of size 3.  Although the project work will scale with students, the administrative parts will remain constant, so having a large group will make it easier for you.  
 
-Project proposal should be well-structured (✨ see below) with clear research questions relevant to the course. Questions to consider in choosing a topic: 
-* What topics do I care about and/or have domain knowledge in?
-* What new skills do I want to develop? Modeling/analysis/data collection/research survey project?
-* What are available data sets?
-* What are existing baseline models to compare against?
-* What is the evaluation plan?
-* What is the analysis/qualitative evaluation plan? 
-
-✨ That said, we encourage you to work on risky projects! ✨ Think about these levels: 
-
-1. **Structured:**
-    * Task and data sets are well defined, can make rapid progress with existing NLP models
-    * Work will likely not result in publication (maybe suitable for workshop venues), though it depends how good your model is!
-2. **Semi-structured:**
-    * Some prior work on task. Data exists but may not be well-formatted or easy to approach
-    * Research questions are clear but exact formulation of task is not
-    * Project will require creativity in structuring tasks and may result in publishable work
-3. **Unstructured:**
-    * Topic may be interesting, but research questions are unclear and hard to define
-    * Not clear what the correct data set is, may need to create one
-    * Could result in really great work, but will require substantial student effort (High risk high reward!)
-
-All of them are fine, and you should pick whatever project type suits what you aim to achieve from this course. 
-
-## Grading 
-
-Your project is worth 50% of the class grade. This is broken down across the following milestones:
-
-* **Form a project team and submit project team information (2.5pt).**
-* **Submit a project proposal (10pt).** A document no longer than 2 pages, consisting of the following information (following "[Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)"):
-    * What are you trying to do? Articulate your objectives using absolutely no jargon.
-    * How is it done today, and what are the limits of current practice? 
-    * The survey of prior work doesn’t need to be complete, but you should include high-level information about how your problem has been approached in the literature. This will help you think about baselines to compare against in your experiments.
-    * What is new in your approach and why do you think it will be successful?
-    * A success can also be showing that a published method does **not** work on a new language, domain, culture, etc.
-    * Who cares? If you are successful, what difference will it make? 
-    * What are the risks?
-    * What are the intermediate (Nov 3) and final "exams" (Dec 6) to check for success? 
-    * You should describe here how you will evaluate your approach. 
-    * For a data-driven project, you should describe the data that you have at hand. Ideally, you should have all the data that you need – or have a plan that will get you the data within the next couple of weeks.   
-    * If you are working on a standard data set, there is probably a standard evaluation that has been followed in the literature. You could describe this.
-    * For a survey paper, you can commit to saying that success is providing X number of new insights. 
-    * A successful formalization provides a clearly articulated framework for an old concept.
-* **Submit an intermediate status report (10pt).** Upload [here](https://drive.google.com/drive/folders/1ha_jKmwyfffNOZdno6VbBTrzx6PYzTug?usp=share_link). A max 2-page document that says what you have done on the project so far. You can use your project proposal and add at the end a new section for new content. The new content should be max 2 pages, not everything including your proposal. The report should describe:
-    * The progress you have made towards your goal. (This cannot be just "We collected data".) (5pt)
-        * You **must** include a link to a github repository for your project.
-    * Details of your plan for rest of the semester (3pt)
-        * Here you **must** integrate the feedback you received on your proposal, unless I just suggested you could do something but didn't give a signal it's crucial. 
-    * Pointers to literature (2pt)
-        * Here you should integrate the feedback you received on the literature. 
-* **Presentation (12.5pt):** Upload a **pdf** [here](https://drive.google.com/drive/folders/1HIgZkF31ODPXIVBSPFH473hnxfF2Iwg9?usp=share_link). 
-    * **All** presentations MUST be uploaded by **Tuesday, Nov 29, 9 AM**. 
-    * Please check Canvas (Home > Project Presentations) to see when your presentation is scheduled. **If you can't present on that day, let me know immediately.** Everyone (including those who are scheduled for Thrusday) **will use the version of slides available in the drive on Tuesday morning** (I'll remove access to the drive on Tuesday). If you miss the deadline for uploading your slides you will loose all points.  
-    * Every presentation has to be presented **max. 20' long**. There will be a hard stop. _Plan what you will say beforehand._   
-    * Your presentation has to have the following structure:
-        * Title slide with the project name, your name, and a link to your github repo. **(0.5 point)**
-        * A _brief_ introduction to the project topic **(1 points)** and the research question written as a _concrete_ question (e.g., Does X improve Y?) **(1 point)**. Demonstrate why addressing this question is relevant: what does every possible answer to the question entail? **(1 points)** 
-        * Describe your approach to answering the research question. **(2 points)** 
-        * _Precisely_ describe your experimental setup: tasks **(0.5 point)**, dataset names **(0.5 point)** + their main characteristics **(0.5 point)**, and evaluation metrics **(1 point)**. 
-        * Present your results with figures/tables that are well organized and labeled **(1 points)**. Walk us through how to read them (what's x-axis, what's y-axis, where are the baselines, where is your method, point where we can see every result you're commenting, etc.) **(1 point)** Discuss and interpret results in the context of your research questions.
-        * Given your research question, what do you conclude from your results? **(1.5 points)**
-        * Tell us what you would do differently and/or what would you do if you had more time. **(1 point)**
-* **Submit a project report (15pt):** Upload [here](https://drive.google.com/drive/folders/1D5lTKslXLneDN5_rlN5shDxxxnJ59KZQ?usp=share_link). Try to structure it like a research paper.
-    * What problem did you work on? Why is it interesting?
-    * What have you done to address the problem? 
-    * What ideas from the class did you use?
-    * Provide your results and conclusions. 
-    * What did you learn?
-    * If you had much more time, how would you continue the project?
-    * Notes:
-        * Each of these components will be equally weighted in the report grade.
-        * Points will be deducated if the report has many grammatical mistakes and poor coherence. 
-        * If your project had two members, your report should explain what each of you did.
+Note that some topics will not be covered before many elements of the project are due.  I realize this is not ideal.  However, typically, most work on a project is crammed in the last week or two of the semester, which is also not ideal.  In the past this has lead to much stronger projects without considerably more work required.  
 
 
-<!-- * Pre-proposal: A 1-2 paragraph document describing the focus area of the project and defining team members (Due 1/23) -->
-<!-- * Proposal: (7.5%) A 2-3 page document (ACL format) containing a literature review, concrete problem definition, identification of baseline models, and ideas for final models. Sections should include Introduction, Related Work, Data, Baseline, Proposed Approach. Baselines should be clearly defined but do not need to be implemented yet (Due 2/25) -->
-<!-- * Midterm Presentations: (7.5%) An in-class presentation of project and current progress. Presentation should include problem definition, baseline models and results, and description of proposed models (3/19-3/24) -->
-<!-- * Final Report and Presentations: (15%) In-class presentations of the project will be held during the final week of class. A final project report will be due the following week. The final report should be formated as a standard research paper with appropriate sections (ACL format, 8 pages) (Presentations 4/28-4/30; Report due 5/8) -->
+### Scale of Project
+
+The specifics of the project will be very flexible.  I expect each student to perform data mining on some real data set.  The goal is to gain more in depth experience in some aspect of the class, and to do so in a setting where the instructor can provide guidance.  
+
+The lectures will cover the material, the homeworks and quizzes will reinforce the material, and this project should provide deep understanding of some aspect of the material.  Students who demonstrate a deep understanding of some aspect of data mining covered in the class through their project will receive high grades.  
+
+Project options may include:  
+
+* apply advanced techniques from the class towards a real data set
+* compare several basic techniques from the class towards a real data set
+* propose and test extension to techniques from class on a real data set
+
+
+
+## Project Proposal (5 points)
+
+**Due January 25** 
+
+Prepare a **100 to 200 word** document outlining your plan.  This should contain:
+
+* who is in your group
+* what data you plan to use and where you plan to get it from
+* what structure you want to mine from the data
+* why this problem is interesting
+* what is new, or what I (the instructor) will learn
+
+
+The last bullet should try to make clear why this is **more** than just another homework assignment.  Either 
+you are applying data mining techniques to a specific data set in a way it has not (to your knowledge) been done before;
+you are comparing several techniques when you are not sure which is best, or what advantages each has;
+you are proposing some new variation to some existing idea.  
+
+It is not uncommon for the instructor will provide feedback and alter or modify your proposed plans.  This can either happen by students stopping by to discuss with the instructor or TA before the proposal is due, or will come in feedback on the specific proposal.  
+This step is most important when the topic is related to material that is covered later in the class.  
+
+To be clear, if there are multiple students on a project team, the project should scale accordingly.  This may for instance involve trying three extensions to a technique and comparing to see which works the best (for 3 students).  Or processing a data set in two phases using two consecutive techniques (for 2 students).  The work does not need to be split as such, but it should be clearly more than for a single student.  
+
+If this is part of a larger project (e.g. part of your thesis work, extending your lab's work), please indicate its scope with respect to previous work.  
+
+As an arbitrary way to separate this class from the Machine Learning class, we will **not allow projects with central focus on building a classifier**.  A classifier may be used to evaluate a result.    
+
+### Topics  
+
+The best projects occur on topics that students have experience with and/or are passionate about.  First look within your own experience, whether that is your research, your work, or your hobbies.   
+
+If you still have trouble finding a topic, I suggest exploring these resources for interesting datasets to explore.  You cannot just explore a data set, you must propose to find some structure in it. 
+
+* http://snap.stanford.edu/data/
+* http://www.census.gov/
+* http://data.geocomm.com/catalog/
+* http://meta.wikimedia.org/wiki/Data_dumps
+* http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
+* http://kdd.ics.uci.edu/
+* http://www.cise.ufl.edu/research/sparse/matrices/
+* http://webscope.sandbox.yahoo.com/
+* http://www.google.com/publicdata/directory
+* https://aws.amazon.com/datasets
+* https://dev.twitter.com/streaming/overview
+* http://lib.stat.cmu.edu/datasets/
+
+If you have an advisor, they may also be good source of problems and data.  
+
+
+## Data Collection Report (10 points)
+
+**Due February 15**
+
+Prepare an **at most 1 page** report describing what data you have collected (or for some larger settings like from Twitter) are continuing to collect.  
+
+_Often a surprising amount of time in data mining is spent in acquiring and manipulating data.  And demonstrating a technique on a real data set can have dramatic impact in convincing someone of its usefulness._
+
+Please report:
+* How you obtained your data?
+* How large is your data?
+* In what format are you storing your data.  Describe the \emph{abstract data type}, not just the file format.  
+* Did you need to process the original data to get it into an easier, more compressed format (e.g., convert from one format to another one)?
+* How would you simulate similar data?  
+
+For this report, I really want you to focus on which of the abstract data types (e.g., matrix, graph, point set, set of sets, or a combination of these) that you will think of this data set as.  
+In many cases you will not store the data in the original format, and you will need to convert it to another format.  I want you to think about this conversion along the idea of these abstract representations.  
+This is usually the most challenging aspect for students.  These decisions should be discussed to answer steps 2 and 3 (above) fully.  
+
+For instance, do not say data is a vector (which implies Euclidian distance) if the coordinates have different units, and are not compatible, unless the goal is only regression.  Do not have each entry be a piece of text; it can be a count of the number of a word or set of words, but not a piece of text.  This is usually not useful.  Same goes for a matrix representation with different meanings for each column.  Think carefully about this, and ask the instructor if you are not sure.  
+
+Step 5 is to make you think about how you would _model_ your data.  The structure you hope to find is likely correlated with how you model your data.  Given a model, you can (at least theoretically) then generate random data from this model.  Sometimes this is actually a hard open problem (e.g. for graphs of social networks).  This is important for most statistical analysis of your data to validate how well your technique will actually work.  
+And will also be important if you want to generate synthetic data to see how your technique scales beyond the real data set you have gathered.  
+
+## Intermediate Report (15 points)
+
+**Due March 20**  at  **noon**.
+
+_Unlike other components, this one will be **due at noon**.  Then each project team will be assigned 2 other project teams.  In class on March 20, we will spend half the time with project teams meeting and peer evaluating each other's projects.  Teams will have an option to update their reports before evaluated by the instructor.  Remote students will be able to discuss over Zoom or other means if preferred.  They can also schedule a time with the instructor._ 
+
+Prepare an **at most 1 page per student** report describing your progress so far towards your proposed goal.  That is 2 students can turn in 2 pages, and 3 students can turn in 3 pages.  
+
+Basically this intermediate report should demonstrate to the instructor that you have made non-trivial progress towards your goal.  
+For instance, perhaps you proposed to take a basic technique and slightly modify it.  Then this intermediate report should note that you have gotten the basic technique working.  
+
+Some basic plots or numbers from experiments that you ran (mainly to convince yourself) that shows everything is working can be included.  
+Perhaps you have finished all of the coding and setup already and just need to run experiments at this point.  Then note that and discuss what suite of experiments you plan to run for the final report.  
+
+
+Specifically describe:
+
+* What progress you have made towards your proposed goal? (just data collection is \emph{not} an option)
+* If you tried some basic approaches: what worked well and what did not?
+* What could be done to improve the basic approaches?
+* What experiments have you run and are you planning to run to demonstrate the effectiveness?
+
+Each student group should schedule a time to meet with the instructor the week the intermediate report is due.  
+Bring a print out of the intermediate report to this meeting --- it can be updated after the peer review.  A mechanism for signing up will be available closer to this date.  
+
+The instructor will attempt to provide feedback to make the final reports as strong as possible.  Thus the more progress you have made and the more information you include, the more success you will likely have with your final report.  
+
+
+## Final Report (50 points)
+
+**Due April 12**
+
+Your report will be **at most 4 pages per student**, single columned at 11 point or larger font.  Margins should be at least 1 inch.  (If it is shorter, but contains all needed information, it will make the instructor happy.) 
+However, you will be allowed an unlimited number of pages for references and appendices.  The report will be graded on the first four pages (per student), but additional information to support the first four pages may be appended and referred to.  The instructor will only read the appendix at her discretion.  Putting _all_ charts and figures in the appendix is not acceptable, and this will result in lost points.  
+
+If you work in a group of more than 1 student, then it should be painfully clear what part of the project was worked on by each student.  If the distribution of work was complicated, a table in the appendix may be a good idea.  
+
+**Why only 4 pages?**  A key aspect of scientific writing is efficiently conveying information.  I expect students to easily generate more than 4 pages of information, but you need to convey this information to me efficiently.  What are the key ideas?  What are the key experiments to show me plots for?  What is the relevant related work to highlight?  
+
+
+## Content
+
+* Provide a succinct title for your project (and your names!).  This is part of 4 pages/student.  Your poster must have the same title.  
+
+* Explain the problem and motivation.  If you prepared a thorough proposal and intermediate report, then you may be able to borrow some material from there.  
+
+* Explain what data you explored?  Where did it come from, how did you process it?  If you simulated to scale the experiments, how did this work?  
+If your data collection report was thorough, you can likely reuse much of this material.  
+
+* What is the **key idea** your project is built upon?  If there is no interesting ideas, I will be a little disappointed.  This should describe the rational behind and what you were hoping to discover about the different approaches you are comparing, or what extension you are proposing to a existing technique, or how you are applying a technique to a dataset where it has not been explored before.  
+
+State this clearly in the beginning; try to make me excited to read the remainder of your report to find out how your idea played out!  
+
+* Explain what you did.  Did you prove something?  Did you implement something?  Did you compare several things?  Did you extend something?  
+
+* Explain what you learned.  This is often greatly aided through charts of experiments.  But you should also include what lessons you came away with in words; just charts or mathematics is insufficient.  
+\end{enumerate}
+
+## Poster Presentations (20 points)
+
+\textbf{Presented April 24} 
+at 3:30-5:30 or 6pm (in MEB hallway near SoC front office)
+
+The class will have a poster session where each group will present their projects.  This will be open to a general audience.  Each group is responsible for one poster.  
+Posters will be available by around 3pm in the MEB main office.  
+
+%You will be encouraged to set them up early to gain foot traffic from the Senior Project Day which concludes nearby at 4:30.  If you are participating in the Senior Project Day, and especially the awards session from 5 to 5:30 you have permission to be late.  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Content}
+
+I expect to see four things on your poster:
+
+\begin{enumerate}\denselist
+*  What is the problem and data you worked on?
+*  What were the key ideas in your approach?  
+*  What techniques from the class did you use?
+*  What did you learn?
+\end{enumerate}
+
+This is a great opportunity for the class to learn about a large variety of topics.  If you approach this poster presentation as a teaching experience, you will be more likely to succeed.  
+
+There are two general types of posters:
+  (A) ones that are meant to stand alone on a wall, with no interaction.
+  (B) ones that are meant to serve as guides for a personal discussion on the topic.  
+\textbf{Posters for the class should be type (B)}, since the main purpose will be a poster session with many people.  
+As such, design your poster with this in mind:  Add any image that you would want to draw on the board or have on a slide if you are giving a presentation.  Posters with just text are typically not very useful.  All text should be large enough so that if you printed the entire poster on one piece of paper (standard notebook size) that it would be easy to read.  (Moreover, outlining a poster on a single piece of paper is an excellent way to start organizing your thoughts.)  
+Make the posters eye-catching, so that people from a distance want to come over and find out more.  
+
+\textbf{Illustrations, pictures, and examples are the key reason to make a poster.  Build your poster around these!}
+
+For more recommendations on how to make a scientific poster, check out this tutorial: \url{https://www.calliechappell.com/blog/scientific-poster}. 
+
+\emph{The department requests that you avoid full-color (e.g., black or blue) backgrounds with white text -- this makes the posters hard to print.  Some colors or using of fun design elements are great an encouraged, but if it does not make a difference, choose a white background.}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Making Posters}
+At the poster session there will be easels, foam boards,  and clips that can support posters.  I suggest two approaches to actually make the posters: 
+
+\paragraph{beginner | slides:}  Make 8 slides in PowerPoint (or equivalent) and post print-outs of the slides.  Make sure you use large enough font that it is easy to read.  The slides will help you structure your ``poster'' linearly to tell a story and help you modularize the presentation (both good things).  
+
+\paragraph{advanced | one-big-image:}  You can use applications like Powerpoint, Keynote, LucidChart, Omnigraffle, Illustrator, or IPE to create a single large slide.  
+The pdf file should be called "your-name.pdf" (e.g., ``jeff-phillips.pdf"; your-name replaced with one of the actual names of you group members) and the department will print it for you.  
+If you make this to scale at 3 feet by 2 feet (either orientation), then the department will print it for you.  This should still have a clear title and narrative flow.  Other than including the key points, GO WILD, and do whatever you can imagine!  
+
+After your poster outline has been approved by the instructor or TA (see below) and you are satisfied to print the poster, add note on canvas saying this is the FINAL version.  Once you do this, you may not be allowed to make changes.  This final note must be made by \textbf{9am on April 20},
+or it might not be printed (unless you have been granted an extension for extra revisions).  
+
+\textbf{Your poster is not complete until it has been approved by me or TAs!}
+%It will be in WEB between 1230 and 1250 on April 27.  
+Make sure the poster is in pdf format and is 3x2 feet, otherwise it will not be printed.  
+Unless required for a special creative angle, the \textbf{background should be white}.  
+Early submissions are greatly appreciated.  
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Poster Outline}
+
+A poster outline will need to be turned in (via canvas) by \textbf{by April 17} at \textbf{5pm}.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth \textbf{5 points} towards the poster presentation.  Early submissions are much appreciated.  
+
+You are also encouraged to stop by during office hours to discuss with the instructor or a TA.  
+The outline should include a draft of the poster (either as a set of slides) or as a single document.  It should be near complete, so that the instructor/TA can make concrete suggestions to improve the poster.  
+
+%Email outlines to the instructor or TA \emph{(details to be set later in course)} with subject line ``DATA MINING POSTERS''.  Please only send pdf files (this can include power points converted to pdf).  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Poster Session}
+
+Each student will be assigned two posters to write a small (250 words) summary on.  During the poster session each student will need to visit their assigned posters and learn about it enough to write the small summary.  
+
+All students will vote one of their top 2 posters (judged by project accomplishments and quality of poster presentation).  They cannot vote for their own.  The top vote getter will earn a bonus 5 points, and the second top vote getter will earn a bonus 2 points.  
+The past winners had very creative designs with lots of pictures or examples, \emph{but still had all of the important points above}.  
+
+Also the instructor will visit each poster and ask for a \textbf{2 minute} overview of the project.  Prepare and practice this \emph{short} oral presentation.  
+
+
+
+\end{document}
