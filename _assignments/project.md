@@ -153,7 +153,7 @@ If you work in a group of more than 1 student, then it should be painfully clear
 **Why only 4 pages?**  A key aspect of scientific writing is efficiently conveying information.  I expect students to easily generate more than 4 pages of information, but you need to convey this information to me efficiently.  What are the key ideas?  What are the key experiments to show me plots for?  What is the relevant related work to highlight?  
 
 
-## Content
+### Content
 
 * Provide a succinct title for your project (and your names!).  This is part of 4 pages/student.  Your poster must have the same title.  
 
