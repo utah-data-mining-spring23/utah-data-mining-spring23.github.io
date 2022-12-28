@@ -13,7 +13,7 @@ Your project will consist of five elements.
 * Final Report: Due April 12
 * Poster Outline: Due April 17
 * Poster Final Version: Due April 20
-* Poster Presentation: April 24 | (3:30pm - 5:30pm or 6:00pm)
+* Poster Presentation: April 24 (3:30pm - 5:30pm or 6:00pm)
 
 As in any research in order to get people to pay attention, you will need to be able to present your work efficiently in written and oral form.  
 
@@ -171,82 +171,69 @@ State this clearly in the beginning; try to make me excited to read the remainde
 
 ## Poster Presentations (20 points)
 
-\textbf{Presented April 24} 
-at 3:30-5:30 or 6pm (in MEB hallway near SoC front office)
+**Presented April 24** at 3:30-5:30 or 6pm (in MEB hallway near SoC front office)
 
 The class will have a poster session where each group will present their projects.  This will be open to a general audience.  Each group is responsible for one poster.  
 Posters will be available by around 3pm in the MEB main office.  
 
-%You will be encouraged to set them up early to gain foot traffic from the Senior Project Day which concludes nearby at 4:30.  If you are participating in the Senior Project Day, and especially the awards session from 5 to 5:30 you have permission to be late.  
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Content}
+## Content
 
 I expect to see four things on your poster:
 
-\begin{enumerate}\denselist
 *  What is the problem and data you worked on?
 *  What were the key ideas in your approach?  
 *  What techniques from the class did you use?
 *  What did you learn?
-\end{enumerate}
 
 This is a great opportunity for the class to learn about a large variety of topics.  If you approach this poster presentation as a teaching experience, you will be more likely to succeed.  
 
 There are two general types of posters:
   (A) ones that are meant to stand alone on a wall, with no interaction.
   (B) ones that are meant to serve as guides for a personal discussion on the topic.  
-\textbf{Posters for the class should be type (B)}, since the main purpose will be a poster session with many people.  
+**Posters for the class should be type (B)**, since the main purpose will be a poster session with many people.  
 As such, design your poster with this in mind:  Add any image that you would want to draw on the board or have on a slide if you are giving a presentation.  Posters with just text are typically not very useful.  All text should be large enough so that if you printed the entire poster on one piece of paper (standard notebook size) that it would be easy to read.  (Moreover, outlining a poster on a single piece of paper is an excellent way to start organizing your thoughts.)  
 Make the posters eye-catching, so that people from a distance want to come over and find out more.  
 
-\textbf{Illustrations, pictures, and examples are the key reason to make a poster.  Build your poster around these!}
+**Illustrations, pictures, and examples are the key reason to make a poster.  Build your poster around these!**
 
-For more recommendations on how to make a scientific poster, check out this tutorial: \url{https://www.calliechappell.com/blog/scientific-poster}. 
+For more recommendations on how to make a scientific poster, check out this tutorial: https://www.calliechappell.com/blog/scientific-poster.
 
-\emph{The department requests that you avoid full-color (e.g., black or blue) backgrounds with white text -- this makes the posters hard to print.  Some colors or using of fun design elements are great an encouraged, but if it does not make a difference, choose a white background.}
+_The department requests that you avoid full-color (e.g., black or blue) backgrounds with white text -- this makes the posters hard to print.  Some colors or using of fun design elements are great an encouraged, but if it does not make a difference, choose a white background._
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Making Posters}
+## Making Posters
+
 At the poster session there will be easels, foam boards,  and clips that can support posters.  I suggest two approaches to actually make the posters: 
 
-\paragraph{beginner | slides:}  Make 8 slides in PowerPoint (or equivalent) and post print-outs of the slides.  Make sure you use large enough font that it is easy to read.  The slides will help you structure your ``poster'' linearly to tell a story and help you modularize the presentation (both good things).  
+**beginner / slides:**  Make 8 slides in PowerPoint (or equivalent) and post print-outs of the slides.  Make sure you use large enough font that it is easy to read.  The slides will help you structure your ``poster'' linearly to tell a story and help you modularize the presentation (both good things).  
 
-\paragraph{advanced | one-big-image:}  You can use applications like Powerpoint, Keynote, LucidChart, Omnigraffle, Illustrator, or IPE to create a single large slide.  
-The pdf file should be called "your-name.pdf" (e.g., ``jeff-phillips.pdf"; your-name replaced with one of the actual names of you group members) and the department will print it for you.  
+**advanced / one-big-image:**  You can use applications like Powerpoint, Keynote, LucidChart, Omnigraffle, Illustrator, or IPE to create a single large slide.  
+The pdf file should be called `firstname-lastname.pdf` (e.g., `ana-marasovic.pdf`; `firstname-lastname` replaced with one of the actual names of you group members) and the department will print it for you.  
 If you make this to scale at 3 feet by 2 feet (either orientation), then the department will print it for you.  This should still have a clear title and narrative flow.  Other than including the key points, GO WILD, and do whatever you can imagine!  
 
-After your poster outline has been approved by the instructor or TA (see below) and you are satisfied to print the poster, add note on canvas saying this is the FINAL version.  Once you do this, you may not be allowed to make changes.  This final note must be made by \textbf{9am on April 20},
+After your poster outline has been approved by the instructor or TA (see below) and you are satisfied to print the poster, add note on canvas saying this is the FINAL version.  Once you do this, you may not be allowed to make changes.  This final note must be made by **9am on April 20**,
 or it might not be printed (unless you have been granted an extension for extra revisions).  
 
-\textbf{Your poster is not complete until it has been approved by me or TAs!}
-%It will be in WEB between 1230 and 1250 on April 27.  
+**Your poster is not complete until it has been approved by me or TAs!**
 Make sure the poster is in pdf format and is 3x2 feet, otherwise it will not be printed.  
-Unless required for a special creative angle, the \textbf{background should be white}.  
+Unless required for a special creative angle, the **background should be white**.  
 Early submissions are greatly appreciated.  
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Poster Outline}
+##Poster Outline
 
-A poster outline will need to be turned in (via canvas) by \textbf{by April 17} at \textbf{5pm}.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth \textbf{5 points} towards the poster presentation.  Early submissions are much appreciated.  
+A poster outline will need to be turned in (via canvas) by **by April 17** at **5pm**.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth **5 points** towards the poster presentation.  Early submissions are much appreciated.  
 
 You are also encouraged to stop by during office hours to discuss with the instructor or a TA.  
 The outline should include a draft of the poster (either as a set of slides) or as a single document.  It should be near complete, so that the instructor/TA can make concrete suggestions to improve the poster.  
 
-%Email outlines to the instructor or TA \emph{(details to be set later in course)} with subject line ``DATA MINING POSTERS''.  Please only send pdf files (this can include power points converted to pdf).  
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Poster Session}
+## Poster Session
 
 Each student will be assigned two posters to write a small (250 words) summary on.  During the poster session each student will need to visit their assigned posters and learn about it enough to write the small summary.  
 
 All students will vote one of their top 2 posters (judged by project accomplishments and quality of poster presentation).  They cannot vote for their own.  The top vote getter will earn a bonus 5 points, and the second top vote getter will earn a bonus 2 points.  
-The past winners had very creative designs with lots of pictures or examples, \emph{but still had all of the important points above}.  
+The past winners had very creative designs with lots of pictures or examples, _but still had all of the important points above_.
 
-Also the instructor will visit each poster and ask for a \textbf{2 minute} overview of the project.  Prepare and practice this \emph{short} oral presentation.  
-
-
-
-\end{document}
+Also the instructor will visit each poster and ask for a **2 minute** overview of the project.  Prepare and practice this _short_ oral presentation.  
