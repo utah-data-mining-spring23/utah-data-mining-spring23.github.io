@@ -179,7 +179,7 @@ The class will have a poster session where each group will present their project
 Posters will be available by around 3pm in the MEB main office.  
 
 
-## Content
+### Content
 
 I expect to see four things on your poster:
 
@@ -204,7 +204,7 @@ For more recommendations on how to make a scientific poster, check out this tuto
 _The department requests that you avoid full-color (e.g., black or blue) backgrounds with white text -- this makes the posters hard to print.  Some colors or using of fun design elements are great an encouraged, but if it does not make a difference, choose a white background._
 
 
-## Making Posters
+### Making Posters
 
 At the poster session there will be easels, foam boards,  and clips that can support posters.  I suggest two approaches to actually make the posters: 
 
@@ -223,7 +223,7 @@ Unless required for a special creative angle, the **background should be white**
 Early submissions are greatly appreciated.  
 
 
-##Poster Outline
+### Poster Outline
 
 A poster outline will need to be turned in (via canvas) by **by April 17** at **5pm**.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth **5 points** towards the poster presentation.  Early submissions are much appreciated.  
 
@@ -231,7 +231,7 @@ You are also encouraged to stop by during office hours to discuss with the instr
 The outline should include a draft of the poster (either as a set of slides) or as a single document.  It should be near complete, so that the instructor/TA can make concrete suggestions to improve the poster.  
 
 
-## Poster Session
+### Poster Session
 
 Each student will be assigned two posters to write a small (250 words) summary on.  During the poster session each student will need to visit their assigned posters and learn about it enough to write the small summary.  
 
