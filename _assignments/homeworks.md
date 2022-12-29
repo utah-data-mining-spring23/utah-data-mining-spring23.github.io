@@ -16,7 +16,7 @@ I recommend using LaTex for writing up homeworks. It is something that everyone 
 
 ## Late Assignemnts 
 
-To get full credit for an assignment, it must be turned in through Canvas by the due time.  You are allowed to be late with **at most two assignments no more than 48H, without penalty**. You don't need to ask for permission. **After that**, once the deadline is missed, those turned in late will **lose 10%**. Every **subsequent 24 hours** until it is turned **another 10%** is deducted. Assignments will **not be accepted more than 48 hours late**, and will be given a 0. 
+To get full credit for an assignment, it must be turned in through Canvas by the due time.  Standard due date times for homework assignments are **2:45 PM**. You are allowed to be late with **at most two HOMEWORK (not project!) assignments no more than 48H, without penalty**. _You don't need to ask for permission._ After two homework assignments have been submitted late, once the deadline is missed, those turned in late will **lose 10%**. Every **subsequent 24 hours** until it is turned **another 10%** is deducted. Assignments will **not be accepted more than 48 hours late**, and will be given a 0. 
 
 **Assignments will be posted far enough ahead of time that I will not be able to make additional exceptions if a student falls ill. The exception will be prolonged illness accompanied by a doctor's note.** 
 

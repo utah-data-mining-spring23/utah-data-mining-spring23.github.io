@@ -40,6 +40,21 @@ Project options may include:
 
 You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
 
+### Late project components
+
+To get full credit for a project assignment, it must be turned in through Canvas by the due time. Different aspects of projects are due at different times, so please carefully review when each component is due. For PROJECT assignments, the same penalty as for homework is applied for **every component** of the project that is submitted late: Once the deadline is missed, those turned in late will lose 10%. Every subsequent 24 hours until it is turned another 10% is deducted. Assignments will not be accepted more than 48 hours late and will be given a 0. **You CANNOT be late with two project components _without penalty_.** Each team member gets deducted scores for late project components.  
+
+All assignments, unless otherwise announced, must be submitted to the designated area of Canvas. **Do not submit assignments via email.**
+
+### Grading 
+
+If you believe there is an error in grading, you may request a regrading within one week of receiving your grade. Requests must be made by email to the instructor, explaining clearly why you think your solution is correct.
+
+You can earn extra points with poster presentation. 
+
+The class operates under the School of Computing’s [policies and guidelines](https://handbook.cs.utah.edu/2019-2020/Academics/policies.php). Among other things, we will adhere to the [academic misconduct policy](https://www.cs.utah.edu/docs/misc/cheating_policy.pdf). 
+
+
 ## Project Proposal (5 points)
 
 **Due January 25** 
