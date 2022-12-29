@@ -18,7 +18,7 @@ tagline: Data Mining
 description: CS 6140/5140/4140, Spring 2023
 author: Ana Marasović
 baseurl: # # the subpath of your site, e.g. /blog
-url: 'https://utah-data-mining-spring23.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://utah-data-mining-spring23.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 repository: 'utah-data-mining-spring23/utah-data-mining-spring23.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "DUTIES.md"]
 
