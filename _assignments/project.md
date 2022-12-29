@@ -1,6 +1,7 @@
 ---
 title: Project
-include_nav_home: true
+include_nav_home: false
+toc: true
 ---
 
 # Project
