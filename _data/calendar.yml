@@ -252,7 +252,7 @@
       recording: "" 
       slides: ""
       readings: ""
-      due: <span style="color:purple">Schedule individual meetings on projects</span>
+      due: 
     - date: 4/12  
       format: Lecture (Ana)
       theme:  cont.
