@@ -52,10 +52,10 @@ More details will be added as the semester continues.
   <thead>
   <tr>
     <th>Date</th>
-    <th width="15%">Theme</th>
-    <th width="35%">Topic</th>
-    <th width="30%">Materials</th>
-    <th width="20%">Work due</th>
+    <th>Theme</th>
+    <th>Topic</th>
+    <th>Materials</th>
+    <th>Work due</th>
   </tr>
   </thead>
   <tbody>
