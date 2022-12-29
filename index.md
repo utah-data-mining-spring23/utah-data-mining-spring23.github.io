@@ -29,7 +29,7 @@ MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); will be recorded
 {% endfor %}
 {% endif %}
 
-Through **<span style="color: black;">this website</span>** we will share only the schedule, details of the project, and lecture notes and videos. Everything else---syllabus, announcements, discussion, turning in assignments/project components, communicating grades---will be done through **<span style="color: black;">Canvas</span>**.
+Through **<span style="color: black;">this website</span>** we will share only the schedule, details of project components, and lecture notes and videos. Everything else---syllabus, announcements, discussion, turning in assignments/project components, communicating grades---will be done through **<span style="color: black;">Canvas</span>**.
 
 Please use the Canvas discussion forum as the preferred medium for interacting with the instructor and the teaching assistants rather than emailing/messaging directly. Take advantage of the instructor and TA office hours. We will work hard to be accessible to students. Don’t be shy if you don’t understand something: come to office hours, post in the forum, send emails, or speak up in class!
 
