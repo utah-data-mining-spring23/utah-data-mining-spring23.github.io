@@ -260,7 +260,7 @@
       recording: "" 
       slides: ""
       readings: ""
-      due: 
+      due: <span style="color:purple">Final report due</span>
 
 
 - week: 15
@@ -272,7 +272,7 @@
       recording: "" 
       slides: ""
       readings: ""
-      due: <span style="color:purple">Final report due</span>
+      due: <span style="color:purple">Poster outline due</span>
     - date: 4/19
       format: Lecture (Ana)
       theme:  cont.
@@ -280,7 +280,7 @@
       recording: "" 
       slides: ""
       readings: ""
-      due: <span style="color:purple">Poster outline due</span>
+      due: <span style="color:purple">Poster final version due</span>
 
 - week: 16
   days:
@@ -291,7 +291,7 @@
       recording:       
       slides: 
       readings: 
-      due: <span style="color:purple">Poster final version due</span>
+      due: 
     - date: 4/26
       format: 
       theme:  
