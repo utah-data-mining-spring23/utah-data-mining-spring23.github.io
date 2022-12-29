@@ -20,9 +20,9 @@
       format: Lecture (Ana)
       theme:  
       topics: <b><span style="color:green">Martin Luther King Jr. Day holiday</span></b> 
-      recording: "" 
-      slides: ""
-      readings: ""
+      recording: 
+      slides: 
+      readings:
       due:     
     - date: 1/18
       format: Lecture (Ana)
