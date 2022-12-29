@@ -53,7 +53,8 @@ More details will be added as the semester continues.
   <tr>
     <th>Date</th>
     <th width="20%">Theme</th>
-    <th width="30%">Contents</th>
+    <th width="30%">Topic</th>
+    <th width="30%">Materials</th>
     <th width="13%">Work due</th>
   </tr>
   </thead>
@@ -63,8 +64,8 @@ More details will be added as the semester continues.
       <tr>
         <td>{{day.date}}</td>
         <td>{{day.theme}}</td>
+        <td>{{day.topics}}</td>
         <td class="cal-content">
-          {{day.topics}}
           {% if day.recording %}
             <a href="{{day.recording}}" class="cal-content-link">[recording]</a>
           {% endif %}
