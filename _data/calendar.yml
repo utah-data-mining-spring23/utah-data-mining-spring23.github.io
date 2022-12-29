@@ -4,6 +4,7 @@
       format: Lecture (Ana)
       theme: 
       topics: Class Overview
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -11,6 +12,7 @@
       format: Lecture (Ana)
       theme: 
       topics: Statistics Principles
+      notes: ""
       recording: "" 
       slides: ""
       readings: "" 
@@ -20,6 +22,7 @@
       format: Lecture (Ana)
       theme:  
       topics: <b><span style="color:green">Martin Luther King Jr. Day holiday</span></b> 
+      notes: 
       recording: 
       slides: 
       readings:
@@ -28,6 +31,7 @@
       format: Lecture (Ana)
       theme: <b>Similarity</b>
       topics: Jaccard + k-Grams
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -39,6 +43,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Min Hashing
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -47,6 +52,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: LSH
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -58,6 +64,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Distances
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -66,6 +73,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Word Embed + ANN vs. LSH
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -77,6 +85,7 @@
       format: Lecture (Ana)
       theme: <b>Clustering</b>
       topics: Hierarchical
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -85,6 +94,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: K-Means
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -95,6 +105,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Spectral
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -104,6 +115,7 @@
       format: Lecture (Ana)
       theme: <b>Streaming</b>
       topics: Model and Misra-Greis
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -115,6 +127,7 @@
       format: Break
       theme: 
       topics: <b><span style="color:green">Presidents Day holiday</span></b>  
+      notes: 
       recording: 
       slides: 
       readings:
@@ -123,6 +136,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Count-Min Sketch, Count Sketch, and Apriori
+      notes: 
       recording: "" 
       slides: ""
       readings: ""
@@ -134,6 +148,7 @@
       format: Lecture (Ana)
       theme: <b>Regression</b>
       topics: Basics, and Ridge Regression
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -141,7 +156,8 @@
     - date: 3/1
       format: Lecture (Ana)
       theme: 
-      topics: <b><span style="color:black">MIDTERM EXAM</span></b> 
+      topics: <b><span style="color:black">MIDTERM EXAM</span></b>
+      notes:  
       recording: 
       slides: 
       readings:
@@ -153,6 +169,7 @@
       format: Break
       theme: 
       topics: <b><span style="color:green">Spring break</span></b>
+      notes: 
       recording: 
       slides: 
       readings: 
@@ -161,6 +178,7 @@
       format: Break
       theme: 
       topics: <b><span style="color:green">Spring break</span></b>
+      notes: 
       recording:  
       slides: 
       readings: 
@@ -172,6 +190,7 @@
       format: Lecture (Ana)
       theme: cont. 
       topics: Lasso + MP + Comp. Sensing
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -180,6 +199,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Cross-Validation and p-values
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -191,6 +211,7 @@
       format: Lecture (Ana)
       theme: <b>Dim Reduce</b>
       topics: SVD + PCA
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -199,6 +220,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: more PCA, and Random Projections
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -229,6 +251,7 @@
       format: Lecture (Ana)
       theme: <b>Noise</b>
       topics: Noise in Data
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -237,6 +260,7 @@
       format: Lecture (Ana)
       theme:  cont.
       topics: Privacy
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -249,6 +273,7 @@
       format: Lecture (Ana)
       theme: <b>Graph Analysis</b>
       topics: Markov Chains
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -257,6 +282,7 @@
       format: Lecture (Ana)
       theme:  cont.
       topics: PageRank
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -269,6 +295,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: MapReduce 
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -277,6 +304,7 @@
       format: Lecture (Ana)
       theme:  cont.
       topics: Communities
+      notes: ""
       recording: "" 
       slides: ""
       readings: ""
@@ -287,7 +315,8 @@
     - date: 4/24
       format: 
       theme: 
-      topics: <b><span style="color:purple">Poster presentations</span></b>      
+      topics: <b><span style="color:purple">Poster presentations</span></b>   
+      notes:    
       recording:       
       slides: 
       readings: 

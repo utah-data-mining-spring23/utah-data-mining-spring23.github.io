@@ -72,6 +72,9 @@ More details will be added as the semester continues.
           {% if day.slides %}
             <a href="{{day.slides}}" class="cal-content-link">[slides]</a>
           {% endif %}
+          {% if day.notes %}
+            <a href="{{day.notes}}" class="cal-content-link">[notes]</a>
+          {% endif %}
           {% if day.readings %}
             <a href="{{day.readings}}" class="cal-content-link">[readings]</a>
           {% endif %}
