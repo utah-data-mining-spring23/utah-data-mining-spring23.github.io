@@ -60,7 +60,7 @@ The calendar and readings are **tentative** and **subject to change**.
   <thead>
   <tr>
     <th>Date</th>
-    <th width=5%>Theme</th>
+    <th>Theme</th>
     <th>Topic</th>
     <th>Lecture Materials</th>
     <th>Readings</th>
