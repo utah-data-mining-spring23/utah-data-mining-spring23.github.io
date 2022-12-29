@@ -5,6 +5,8 @@ include_nav_home: true
 
 # Project
 
+* [Overview]()
+* [Project Proposal (5 points)](https://utah-data-mining-spring23.github.io/assignments/project/#project-proposal-5-points)
 
 ## Overview 
 
