@@ -295,7 +295,7 @@
     - date: 4/26
       format: 
       theme:  
-      topics: <b><<span style="color:purple">Poster presentations</span></b>
+      topics: <b><span style="color:purple">Poster presentations</span></b>
       slides: 
       readings: 
       due: <span style="color:orange">HW Graphs due</span>
