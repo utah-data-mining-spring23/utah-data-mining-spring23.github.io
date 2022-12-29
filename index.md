@@ -79,7 +79,7 @@ More details will be added as the semester continues.
         </td>
         <td class="cal-content">
           {% if day.readings %}
-            {{{day.readings}}
+            {{day.readings}}
           {% endif %}
         </td>
         <td class="cal-content">{{day.due}}</td>
