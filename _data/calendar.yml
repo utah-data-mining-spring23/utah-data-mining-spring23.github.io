@@ -292,14 +292,13 @@
       slides: 
       readings: 
       due: <span style="color:purple">Poster final version due</span>
-      due: <span style="color:purple">Project report</span> 
     - date: 4/26
       format: 
       theme:  
-      topics: <b><span style="color:black">Poster Presentations</span></b>
+      topics: <b><<span style="color:purple">Poster presentations</span></b>
       slides: 
       readings: 
-      due: <span style="color:orange">HW Graphs due</span>; <span style="color:purple">Poster presentation</span>
+      due: <span style="color:orange">HW Graphs due</span>
 
 - week: 17
   days:
