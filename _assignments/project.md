@@ -5,8 +5,12 @@ include_nav_home: true
 
 # Project
 
-* [Overview]()
-* [Project Proposal (5 points)](https://utah-data-mining-spring23.github.io/assignments/project/#project-proposal-5-points)
+* [Overview](https://utah-data-mining-spring23.github.io/assignments/project/#overview)
+* [Project Proposal (5 points)](https://utah-data-mining-spring23.github.io/assignments/project/#project-proposal-5-points)  
+* [Data Collection Report (10 points)](https://utah-data-mining-spring23.github.io/assignments/project/#data-collection-report-10-points)      
+* [Intermediate Report (15 points)](https://utah-data-mining-spring23.github.io/assignments/project/#intermediate-report-15-points)        
+* [Final Report (50 points)](https://utah-data-mining-spring23.github.io/assignments/project/#final-report-50-points)         
+* [Poster Presentation (20 points)](https://utah-data-mining-spring23.github.io/assignments/project/#poster-presentations-20-points)
 
 ## Overview 
 
