@@ -113,11 +113,11 @@
   days:
     - date: 2/20
       format: Break
-      theme: cont.
+      theme: 
       topics: <b><span style="color:green">Presidents Day holiday</span></b>  
-      recording: "" 
-      slides: ""
-      readings: ""
+      recording: 
+      slides: 
+      readings:
       due: 
     - date: 2/22
       format: Lecture (Ana)
