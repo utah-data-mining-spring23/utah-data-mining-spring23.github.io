@@ -135,14 +135,14 @@
       theme: <b>Regression</b>
       topics: Basics, and Ridge Regression
       recording: "" 
-      slides: 
-      readings: 
+      slides: ""
+      readings: ""
       due:
     - date: 3/1
       format: Lecture (Ana)
       theme: 
       topics: <b><span style="color:black">MIDTERM EXAM</span></b> 
-      recording: "" 
+      recording: 
       slides: 
       readings:
       due: <span style="color:orange">HW Frequent due</span>
@@ -153,7 +153,7 @@
       format: Break
       theme: 
       topics: <b><span style="color:green">Spring break</span></b>
-      recording: "" 
+      recording: 
       slides: 
       readings: 
       due:
@@ -161,7 +161,7 @@
       format: Break
       theme: 
       topics: <b><span style="color:green">Spring break</span></b>
-      recording: "" 
+      recording:  
       slides: 
       readings: 
       due: 
