@@ -71,9 +71,9 @@ The calendar and readings are **tentative** and **subject to change**.
   {% for week in site.data.calendar %}
     {% for day in week.days %}
       <tr>
-        <td>{{day.date}}</td>
-        <td>{{day.theme}}</td>
-        <td>{{day.topics}}</td>
+        <td class="cal-content">{{day.date}}</td>
+        <td class="cal-content">{{day.theme}}</td>
+        <td class="cal-content">{{day.topics}}</td>
         <td class="cal-content">
           {% if day.recording %}
             <a href="{{day.recording}}" class="cal-content-link">[recording]</a>
