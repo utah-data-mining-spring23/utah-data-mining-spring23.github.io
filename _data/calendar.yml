@@ -1,270 +1,319 @@
 - week: 1
   days:
-    - date: 8/23
-      format:
-      theme: <b>Introduction</b>
-      topics: Motivation, course overview, and requirements; examples of projects 
-      slides: "https://docs.google.com/presentation/d/10RsWtvbxtDDhVY1xA6A7ANUq9EaTJf9FPRdPOnyC7C0/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.b8r9reyfo1o3"
-    - date: 8/25
-      theme: <b>Background</b>
-      topics: Trasnformer, pretraining-finetuning, data artifacts.
-      slides: "https://docs.google.com/presentation/d/1WaafzVKzSPPaMkpzjqviDHzJRAwe_gQfonPy6JV8oOw/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.6pyopwzbx5rj"
-
+    - date: 1/9
+      format: Lecture (Ana)
+      theme: 
+      topics: Class Overview
+      recording: "" 
+      slides: ""
+      readings: ""
+    - date: 1/11
+      format: Lecture (Ana)
+      theme: 
+      topics: Statistics Principles
+      recording: "" 
+      slides: ""
+      readings: "" 
 - week: 2
   days:
-    - date: 8/30
+    - date: 1/16
       format: Lecture (Ana)
-      theme: <b>Which part of the input led to a prediction?</b>
-      topics: "Gradient-based post-hoc explanations"
-      slides: "https://docs.google.com/presentation/d/1OVCi6m3Gsu_ipyOffY0G96VelhSpQ0UunPR0PDx-2X8/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.qx588ye5unv9"
+      theme:  
+      topics: <b><span style="color:green">Martin Luther King Jr. Day holiday</span></b> 
+      recording: "" 
+      slides: ""
+      readings: ""
       due:     
-    - date: 9/1
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1baM8inqgLiukBj_ZIBFAiPSRga6QE52zJK4u9UBC8TQ/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.9q1j09hgmbzz"
-      due: Ask discussion questions by Aug 31, 11:59pm 
+    - date: 1/18
+      format: Lecture (Ana)
+      theme: <b>Similarity</b>
+      topics: Jaccard + k-Grams
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:orange">HW Statistical Principles due</span>
 
 - week: 3
   days:
-    - date: 9/6
+    - date: 1/23
       format: Lecture (Ana)
       theme: cont.
-      topics: "Attention-based post-hoc expanations"
-      slides: "https://docs.google.com/presentation/d/1mAWAlgqWjeUG256IrOurBUeluzgyzbzeV7Dxpr3tsCA/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ustsqod47o4a"
+      topics: Min Hashing
+      recording: "" 
+      slides: ""
+      readings: ""
       due:
-    - date: 9/8
-      format: Paper discussion
+    - date: 1/25
+      format: Lecture (Ana)
       theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1J7mpMOahMyw_RzNzd7D26rgqBP0HjHHtFmIi46Uj8WY/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
-      due: <span style="color:purple">Project team information due</span>; Ask discussion questions by Sep 7, 11:59pm
+      topics: LSH
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:purple">Project proposal due</span>
 
 - week: 4
   days:
-    - date: 9/13
+    - date: 1/30
       format: Lecture (Ana)
       theme: cont.
-      topics: "Select-then-predict; faithfulness"
-      slides: "https://docs.google.com/presentation/d/1u2jYv3mNe380Trxu4WN58Xlyl0iYmRG7jhGkr9q-ZbY/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.1ycmlx7vrf1z"
+      topics: Distances
+      recording: "" 
+      slides: ""
+      readings: ""
       due:
-    - date: 9/15    
+    - date: 2/1    
       format: Lecture (Ana)
-      theme: <b>Which human-interpretable concept led to the prediction?</b> 
-      topics: "Concept-based explanations; Reviewing"
-      slides: "https://docs.google.com/presentation/d/1sCkNgvodqt_ulMc3CbafpKkKca5YFbC4_jcNuojiy0c/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ypfvfb2zi31c"
-      due: <span style="color:orange">Papers assigned for review</span>
+      theme: cont.
+      topics: Word Embed + ANN vs. LSH
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:orange">HW Document Hash due</span>
 
 - week: 5
   days:
-    - date: 9/20
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1-kb4jai_3S9_1_nsa15G-S2WxH2jxK9G8hWJy0slycE/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
-      due: Ask discussion questions by Sep 19, 11:59p
-    - date: 9/22
+    - date: 2/6
       format: Lecture (Ana)
-      theme: <b>In plain English, why is this input assigned this label?</b>
-      topics: Free-text explanations
-      slides: "https://docs.google.com/presentation/d/1Zk4A0qaZv9CV5zyRE5iL5kApJbLsFFt5gXekoPwDJkU/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.mxnlvvaiy6ho"
+      theme: <b>Clustering</b>
+      topics: Hierarchical
+      recording: "" 
+      slides: ""
+      readings: ""
       due: 
+    - date: 2/8
+      format: Lecture (Ana)
+      theme: cont.
+      topics: K-Means
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:orange">HW LSH due</span>
 - week: 6
   days:
-    - date: 9/27
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/15I-TI7MSyxvBEiplD3w5DCkRaMsREf0GtJCKcGIH4aw/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pe11brh8czxg"
-      due: Ask discussion questions by Sep 26, 11:59pm 
-
-    - date: 9/29
+    - date: 2/13
       format: Lecture (Ana)
-      theme: <b>Which training examples caused the prediction?</b>
-      topics: Influence functions
-      slides: "https://docs.google.com/presentation/d/12v-YfYMXamkljM_KoLJBdIYI7ZrRulq0rj_65VV60DM/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.tq6ir8x57dds"
+      theme: cont.
+      topics: Spectral
+      recording: "" 
+      slides: ""
+      readings: ""
       due: 
+
+    - date: 2/15
+      format: Lecture (Ana)
+      theme: <b>Streaming</b>
+      topics: Model and Misra-Greis
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:purple">Data Collection Report due</span>
 
 - week: 7
   days:
-    - date: 10/4
-      format: Paper discussion
+    - date: 2/20
+      format: Break
       theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
-      due: <span style="color:orange">Review due</span>; Ask discussion questions by Oct 3, 11:59pm
-    - date: 10/6
-      format: Lecture (Ana) 
-      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b> 
-      topics: Contrastive editing; contrastive vector representation
-      slides: "https://docs.google.com/presentation/d/1-ZtbrHDJbgkCfdISoSSZUkvzEku_d-mcKRv1-6_3K8I/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.8jeqy3pr3o9m"
+      topics: <b><span style="color:green">Presidents Day holiday</span></b>  
+      recording: "" 
+      slides: ""
+      readings: ""
       due: 
+    - date: 2/22
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Count-Min Sketch, Count Sketch, and Apriori
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:orange">HW Clustering due</span>
 
 - week: 8
   days:
-    - date: 10/11
-      format: Break
-      theme: <b><span style="color:green">Fall Break</span></b>
-      topics: 
+    - date: 2/27
+      format: Lecture (Ana)
+      theme: <b>Regression</b>
+      topics: Basics, and Ridge Regression
+      recording: "" 
       slides: 
       readings: 
       due:
-    - date: 10/13
-      format: Break
-      theme: <b><span style="color:green">Fall Break</span></b>
+    - date: 3/1
+      format: Lecture (Ana)
+      theme: <b><span style="color:black">MIDTERM EXAM</span></b>
       topics: 
+      recording: "" 
       slides: 
       readings:
-      due: 
+      due: <span style="color:orange">HW Frequent due</span>
 
 - week: 9
   days:
-    - date: 10/18
-      format: Lecture (Ana)
-      theme: <b>Psychology of human explanations</b>
-      topics: Foundations
-      slides: "https://docs.google.com/presentation/d/1FeJksWbOCB1KVCeF88NVPU3j-g0OYVV2W-k0mxK-kf8/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.fwum1ui7d4yn"
+    - date: 3/6
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Spring break</span></b>
+      recording: "" 
+      slides: 
+      readings: 
       due:
-    - date: 10/20
-      format: Lecture (Ana)
-      theme: <b>Application-grounded, human-subject evaluations of explanations</b>
-      topics: Experimental design, use cases, and challenges
-      slides: "https://docs.google.com/presentation/d/19O30zCh1WYAIJT1qg3bpWhD4JO30lcDM9Zfo3cPKFnY/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.1b82wpbkj2l6"
-      due: <span style="color:purple">Project proposals due</span>
+    - date: 3/8
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Spring break</span></b>
+      recording: "" 
+      slides: 
+      readings: 
+      due: 
 
 - week: 10
   days:
-    - date: 10/25
-      format: Paper discussion
-      theme: cont. 
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1JfkWH3ug91Y10Miy6B70K7qhm2jIEkbi2Q4HUvJ4v3Y/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.i82ym5lvtkiy"
-      due: Ask discussion questions by Oct 24, 11:59pm
-    - date: 10/27
+    - date: 3/13
       format: Lecture (Ana)
-      theme: <b>Explainability as a dialog</b>
-      topics: Principles, roadmap, risks, and research opportunities
-      slides: "https://docs.google.com/presentation/d/11p9_0MGrbDdg2k9QJRSUHaH435eXVC6ccva5ldCnBgA/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.z1e3q033casb"
+      theme: cont. 
+      topics: Lasso + MP + Comp. Sensing
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: 
+    - date: 3/15
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Cross-Validation and p-values
+      recording: "" 
+      slides: ""
+      readings: ""
       due:
 
 - week: 11
   days:
-    - date: 11/1
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1rE6HefOiuhMmGLXs-M5kLMZrTZL7lSQubj788TVm2n4/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.teczmiqz4yrb"
-      due: Ask discussion questions by Oct 31, 11:59pm
-    - date: 11/3
+    - date: 3/20
       format: Lecture (Ana)
-      theme: <b>Trust in AI</b>
-      topics: Prerequisites, causes, and goals of human trust in AI
-      slides: "https://docs.google.com/presentation/d/1qEPsn8HNwcnX-dc4J2BfMfUwuqVlKVc64xW6jmKa7YY/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.bmdm5xfwfzm1"
+      theme: <b>Dim Reduce</b>
+      topics: SVD + PCA
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: 
+    - date: 3/22
+      format: Lecture (Ana)
+      theme: cont.
+      topics: more PCA, and Random Projections
+      recording: "" 
+      slides: ""
+      readings: ""
       due: 
 
 - week: 12
   days:
-    - date: 11/8
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1CIwFM33svq4Pto-O5XFf8ah6nLUq45mbTEYCDyjIthQ/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pf3o9ph7a2f3"
-      due: Ask discussion questions by Nov 7, 11:59pm
-    - date: 11/10
+    - date: 3/27
       format: Lecture (Ana)
-      theme: <b>Advanced topics</b>
-      topics: Few-shot learning 
-      slides: "https://docs.google.com/presentation/d/12Eg31wSusnVHF3jg-k_gmVun63OxyjMnu_1ouQikclQ/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.cwow9vioebm5" 
-      due: <span style="color:purple">Project intermediate status report due</span> 
+      theme: cont.
+      topics: Matrix Sketching
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: 
+    - date: 3/29
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Metric Learning
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:orange">HW Regression due</span>
 
 - week: 13
   days:
-    - date: 11/15
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion Self-attention vs. convolution
-      slides: "https://docs.google.com/presentation/d/1jvhhf8TZ0uoDnEvKVdExR8V2OFjur0J-nw3-EixVPIw/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.5p061mz7owbn"
-      due: Ask discussion questions by Nov 14, 11:59pm
-    - date: 11/17
+    - date: 4/3
       format: Lecture (Ana)
-      theme:  <b>Looking back</b>
-      topics: Looking back
-      slides: "https://docs.google.com/presentation/d/13v8r4E0p3k5LkxuHaQSlC7Q2pKokt8yDTSkooLbbQkU/edit?usp=sharing"
-      readings: 
-      due: 
+      theme: <b>Noise</b>
+      topics: Noise in Data
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: Ask discussion questions by Nov 14, 11:59pm
+    - date: 4/5
+      format: Lecture (Ana)
+      theme:  cont.
+      topics: Privacy
+      recording: "" 
+      slides: ""
+      readings: ""
+      due: <span style="color:orange">HW Dim Reduce due</span>
 
 
 - week: 14
   days:
-    - date: 11/22
-      format: Project Meetings
-      theme: <b><span style="color:purple">Project Meetings</span></b>
-      topics: Peer user studies and project feedback
-      slides: 
-      readings: 
+    - date: 4/10
+      format: Lecture (Ana)
+      theme: <b>Graph Analysis</b>
+      topics: Markov Chains
+      recording: "" 
+      slides: ""
+      readings: ""
       due: <span style="color:purple">Schedule individual meetings on projects</span>
-    - date: 11/24
-      format: Break
-      theme:  <b><span style="color:green">Thanksgiving Break</span></b>
-      topics: 
-      slides: 
-      readings: 
+    - date: 4/12  
+      format: Lecture (Ana)
+      theme:  cont.
+      topics: PageRank
+      recording: "" 
+      slides: ""
+      readings: ""
       due: 
 
 
 - week: 15
   days:
-    - date: 11/29
-      format: Project Presentations
-      theme: <b><span style="color:purple">Project Presentations</span></b>
-      topics: 
+    - date: 4/17
+      format: Lecture (Ana)
+      theme: cont.
+      topics: MapReduce 
+      recording: "" 
       slides: 
       readings: 
-      due: <span style="color:purple">Everyone submits their presentations</span>
-    - date: 12/1
-      format: Project Presentations
-      theme:  <b><span style="color:purple">Project Presentations</span></b>
-      topics: 
+      due: <span style="color:purple">Final report due</span>
+    - date: 4/19
+      format: Lecture (Ana)
+      theme:  cont.
+      topics: Communities
+      recording: "" 
       slides: 
       readings: 
-      due: 
+      due: <span style="color:purple">Poster outline due</span>
 
 - week: 16
   days:
-    - date: 12/6
-      format: Lecture
-      theme: <b>Class cancelled</b>
-      topics: Class cancelled                
+    - date: 4/24
+      format: 
+      theme: 
+      topics: TBA      
+      recording:       
+      slides: 
+      readings: 
+      due: <span style="color:purple">Poster final version due</span>
+      due: <span style="color:purple">Project report</span> 
+    - date: 4/26
+      format: 
+      theme:  <b><span style="color:black">Poster Presentations</span></b>
+      topics: 
+      slides: 
+      readings: 
+      due: <span style="color:orange">HW Graphs due</span>; <span style="color:purple">Poster presentation</span>
+
+- week: 17
+  days:
+    - date: 5/1
+      format: 
+      theme: 
+      topics: No class (exam week)              
       slides: 
       readings: 
       due: <span style="color:purple">Project report</span> 
-    - date: 12/8
-      format: Break
-      theme:  <b><span style="color:red">Classes End</span></b>
-      topics: No class
+    - date: 5/3
+      format: 
+      theme:  
+      topics: <b><span style="color:black">FINAL EXAM</span></b>
       slides: 
       readings: 
       due: 

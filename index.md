@@ -69,6 +69,9 @@ More details will be added as the semester continues.
         <td>{{day.theme}}</td>
         <td class="cal-content">
           {{day.topics}}
+          {% if day.recording %}
+            <a href="{{day.recording}}" class="cal-content-link">[recording]</a>
+          {% endif %}
           {% if day.slides %}
             <a href="{{day.slides}}" class="cal-content-link">[slides]</a>
           {% endif %}
