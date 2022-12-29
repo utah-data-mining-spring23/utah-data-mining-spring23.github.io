@@ -1,6 +1,7 @@
 ---
 title: Exams
 include_nav_home: false
+toc: true
 ---
 
 # Exams
