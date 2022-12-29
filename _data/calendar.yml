@@ -107,7 +107,7 @@
       recording: "" 
       slides: ""
       readings: ""
-      due: <span style="color:purple">Data Collection Report due</span>
+      due: <span style="color:purple">Data collection report due</span>
 
 - week: 7
   days:
@@ -308,7 +308,7 @@
       topics: No class (exam week)              
       slides: 
       readings: 
-      due: <span style="color:purple">Project report</span> 
+      due:  
     - date: 5/3
       format: 
       theme:  
