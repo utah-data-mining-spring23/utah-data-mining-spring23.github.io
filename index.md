@@ -71,7 +71,7 @@ The calendar and readings are **tentative** and **subject to change**.
   {% for week in site.data.calendar %}
     {% for day in week.days %}
       <tr>
-        <td class="cal-content">{{day.date}}</td>
+        <td>{{day.date}}</td>
         <td class="cal-content">{{day.theme}}</td>
         <td class="cal-content">{{day.topics}}</td>
         <td class="cal-content">
