@@ -54,14 +54,13 @@ We will also often link to two other online resources that cover similar materia
 
 ## Calendar
 
-Calendar is **tentative and subject to change**.
-More details will be added as the semester continues.
+Calendar is **tentative** and **subject to change**.
 
 <table>
   <thead>
   <tr>
     <th>Date</th>
-    <th>Theme</th>
+    <th width=5%>Theme</th>
     <th>Topic</th>
     <th>Lecture Materials</th>
     <th>Readings</th>
