@@ -194,7 +194,7 @@
       recording: "" 
       slides: ""
       readings: ""
-      due: 
+      due: <span style="color:purple">Project intermediate report due</span>
     - date: 3/22
       format: Lecture (Ana)
       theme: cont.
