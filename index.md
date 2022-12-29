@@ -51,7 +51,6 @@ More details will be added as the semester continues.
 <table>
   <thead>
   <tr>
-    <th>Week</th>
     <th>Date</th>
     <th width="20%">Theme</th>
     <th width="30%">Contents</th>
@@ -62,9 +61,6 @@ More details will be added as the semester continues.
   {% for week in site.data.calendar %}
     {% for day in week.days %}
       <tr>
-        {% if forloop.index == 1 %}
-        <td rowspan="{{week.size}}">{{week.week}}</td>
-        {% endif %}
         <td>{{day.date}}</td>
         <td>{{day.theme}}</td>
         <td class="cal-content">
