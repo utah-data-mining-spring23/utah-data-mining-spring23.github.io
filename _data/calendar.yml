@@ -270,16 +270,16 @@
       theme: cont.
       topics: MapReduce 
       recording: "" 
-      slides: 
-      readings: 
+      slides: ""
+      readings: ""
       due: <span style="color:purple">Final report due</span>
     - date: 4/19
       format: Lecture (Ana)
       theme:  cont.
       topics: Communities
       recording: "" 
-      slides: 
-      readings: 
+      slides: ""
+      readings: ""
       due: <span style="color:purple">Poster outline due</span>
 
 - week: 16
@@ -287,7 +287,7 @@
     - date: 4/24
       format: 
       theme: 
-      topics: TBA      
+      topics: <b><span style="color:purple">Poster presentations</span></b>      
       recording:       
       slides: 
       readings: 
@@ -295,7 +295,7 @@
     - date: 4/26
       format: 
       theme:  
-      topics: <b><span style="color:purple">Poster presentations</span></b>
+      topics: 
       slides: 
       readings: 
       due: <span style="color:orange">HW Graphs due</span>
