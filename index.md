@@ -54,7 +54,8 @@ More details will be added as the semester continues.
     <th>Date</th>
     <th>Theme</th>
     <th>Topic</th>
-    <th>Materials</th>
+    <th>Lecture Materials</th>
+    <th>Readings</th>
     <th>Work due</th>
   </tr>
   </thead>
@@ -75,8 +76,10 @@ More details will be added as the semester continues.
           {% if day.notes %}
             <a href="{{day.notes}}" class="cal-content-link">[notes]</a>
           {% endif %}
+        </td>
+        <td class="cal-content">
           {% if day.readings %}
-            <a href="{{day.readings}}" class="cal-content-link">[readings]</a>
+            {{{day.readings}}
           {% endif %}
         </td>
         <td class="cal-content">{{day.due}}</td>
