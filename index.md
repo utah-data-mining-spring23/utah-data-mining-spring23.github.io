@@ -55,7 +55,7 @@ More details will be added as the semester continues.
     <th width="20%">Theme</th>
     <th width="30%">Topic</th>
     <th width="30%">Materials</th>
-    <th width="13%">Work due</th>
+    <th width="20%">Work due</th>
   </tr>
   </thead>
   <tbody>
