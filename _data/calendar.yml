@@ -140,8 +140,8 @@
       due:
     - date: 3/1
       format: Lecture (Ana)
-      theme: <b><span style="color:black">MIDTERM EXAM</span></b>
-      topics: 
+      theme: 
+      topics: <b><span style="color:black">MIDTERM EXAM</span></b> 
       recording: "" 
       slides: 
       readings:
@@ -295,8 +295,8 @@
       due: <span style="color:purple">Project report</span> 
     - date: 4/26
       format: 
-      theme:  <b><span style="color:black">Poster Presentations</span></b>
-      topics: 
+      theme:  
+      topics: <b><span style="color:black">Poster Presentations</span></b>
       slides: 
       readings: 
       due: <span style="color:orange">HW Graphs due</span>; <span style="color:purple">Poster presentation</span>
