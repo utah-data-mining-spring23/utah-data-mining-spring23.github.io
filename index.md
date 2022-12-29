@@ -77,11 +77,7 @@ More details will be added as the semester continues.
             <a href="{{day.notes}}" class="cal-content-link">[notes]</a>
           {% endif %}
         </td>
-        <td class="cal-content">
-          {% if day.readings %}
-            {{day.readings}}
-          {% endif %}
-        </td>
+        <td class="cal-content">{{day.readings}}</td>
         <td class="cal-content">{{day.due}}</td>
       </tr>
     {% endfor %}
