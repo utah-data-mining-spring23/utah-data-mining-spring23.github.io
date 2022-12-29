@@ -12,7 +12,7 @@
       format: Lecture (Ana)
       theme: 
       topics: Statistics Principles
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L2-StatisticalPrinciples.pdf
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 2.2-2.3</a>; <a href="http://www.mmds.org/">MMDS 1.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 12.4</a>
@@ -31,7 +31,7 @@
       format: Lecture (Ana)
       theme: <b>Similarity</b>
       topics: Jaccard + k-Grams
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L3-Jaccard+nGram.pdf
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 4.3-4.4</a>; <a href="http://www.mmds.org/">MMDS 3.1-3.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.3</a>
@@ -43,7 +43,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Min Hashing
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L4-Minhash.pdf
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 4.6.6</a>; <a href="http://www.mmds.org/">MMDS 3.3</a>
@@ -52,7 +52,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: LSH
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L5-LSH.pdf
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 4.6</a>; <a href="http://www.mmds.org/">MMDS 3.4</a>
@@ -64,19 +64,19 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Distances
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L6-Distances.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 4-4.3</a>; <a href="http://www.mmds.org/">MMDS 3.5 + 7.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.1</a>
       due:
     - date: 2/1    
       format: Lecture (Ana)
       theme: cont.
       topics: Word Embed + ANN vs. LSH
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L7-highD+ANN.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 4.4</a>; <a href="https://arxiv.org/abs/1607.06520">[Ethics Read]</a>; <a href="http://www.mmds.org/">MMDS 3.7 + 7.1.3</a>
       due: <span style="color:orange">HW Document Hash due</span>
 
 - week: 5
@@ -85,19 +85,19 @@
       format: Lecture (Ana)
       theme: <b>Clustering</b>
       topics: Hierarchical
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L8-hierarch.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 8.5 + 8.2</a>; <a href="http://www.mmds.org/">MMDS 7.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.7</a>
       due: 
     - date: 2/8
       format: Lecture (Ana)
       theme: cont.
       topics: K-Means
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L9-kmeans.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 8-8.3</a>; <a href="http://www.mmds.org/">MMDS 7.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.2-7.3</a>
       due: <span style="color:orange">HW LSH due</span>
 - week: 6
   days:
@@ -105,20 +105,20 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Spectral
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L10-spectral.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 10.3</a>; <a href="http://www.mmds.org/">MMDS 10.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.5</a>
       due: 
 
     - date: 2/15
       format: Lecture (Ana)
       theme: <b>Streaming</b>
       topics: Model and Misra-Greis
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L11-Heavy-Hitters.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 11.1-11.2.2</a>; <a href="http://www.mmds.org/">MMDS 6</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a> 
       due: <span style="color:purple">Project data collection report due</span>
 
 - week: 7
@@ -136,10 +136,10 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Count-Min Sketch, Count Sketch, and Apriori
-      notes: 
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[BF Analysis]</a>
       due: <span style="color:orange">HW Clustering due</span>
 
 - week: 8
@@ -148,10 +148,10 @@
       format: Lecture (Ana)
       theme: <b>Regression</b>
       topics: Basics, and Ridge Regression
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L13-Regression.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 5-5.3</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.2 + 3.4</a>
       due:
     - date: 3/1
       format: Lecture (Ana)
@@ -190,10 +190,10 @@
       format: Lecture (Ana)
       theme: cont. 
       topics: Lasso + MP + Comp. Sensing
-      notes: ""
+      notes: 
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp + Gilbert]</a>
       due: 
     - date: 3/15
       format: Lecture (Ana)
@@ -202,7 +202,7 @@
       notes: ""
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 5.5<a>; <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf">[Ethics Read]</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.8</a>
       due:
 
 - week: 11
@@ -211,10 +211,10 @@
       format: Lecture (Ana)
       theme: <b>Dim Reduce</b>
       topics: SVD + PCA
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 4</a>
       due: <span style="color:purple">Project intermediate report due</span>
     - date: 3/22
       format: Lecture (Ana)
@@ -232,17 +232,19 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Matrix Sketching
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L16-MatrixSketching.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://www.mmds.org/">MMDS 9.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7 + 7.2.2</a>; <a href="http://arxiv.org/abs/1501.01711">[arXiv]</a>
       due: 
     - date: 3/29
       format: Lecture (Ana)
       theme: cont.
       topics: Metric Learning
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L15-MetricLearning.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 7.6-7.8</a>; <a href="http://sebastianraschka.com/Articles/2014_python_lda.html">LDA</a>
       due: <span style="color:orange">HW Regression due</span>
 
 - week: 13
@@ -251,7 +253,7 @@
       format: Lecture (Ana)
       theme: <b>Noise</b>
       topics: Noise in Data
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
       recording: "" 
       slides: ""
       readings: ""
@@ -260,10 +262,10 @@
       format: Lecture (Ana)
       theme:  cont.
       topics: Privacy
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L21-Privacy.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md">[McSherry]</a>; <a href="http://research.microsoft.com/pubs/64346/dwork.pdf">Dwork</a>
       due: <span style="color:orange">HW Dim Reduce due</span>
 
 
@@ -273,19 +275,19 @@
       format: Lecture (Ana)
       theme: <b>Graph Analysis</b>
       topics: Markov Chains
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L22-MarkovChain.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 10.1</a>; <a href="http://www.mmds.org/">MMDS 10.1 + 5.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 5</a>; <a href="http://math.colgate.edu/~wweckesser/math312Spring05/handouts/MarkovChains.pdf">Weckesser</a>
       due: 
     - date: 4/12  
       format: Lecture (Ana)
       theme:  cont.
       topics: PageRank
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 10.2</a>; <a href="http://www.mmds.org/">MMDS 5.1 + 5.4</a>
       due: <span style="color:purple">Project final report due</span>
 
 
@@ -295,7 +297,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: MapReduce 
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L24-MapReduce.pdf
       recording: "" 
       slides: ""
       readings: ""
@@ -304,7 +306,7 @@
       format: Lecture (Ana)
       theme:  cont.
       topics: Communities
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L25-Communities.pdf
       recording: "" 
       slides: ""
       readings: ""

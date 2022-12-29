@@ -54,7 +54,7 @@ We will also often link to two other online resources that cover similar materia
 
 ## Calendar
 
-Calendar is **tentative** and **subject to change**.
+The calendar and readings are **tentative** and **subject to change**.
 
 <table>
   <thead>
