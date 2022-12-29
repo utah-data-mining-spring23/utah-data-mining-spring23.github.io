@@ -19,7 +19,7 @@
 - week: 2
   days:
     - date: 1/16
-      format: Lecture (Ana)
+      format: Break
       theme:  
       topics: <b><span style="color:green">Martin Luther King Jr. Day holiday</span></b> 
       notes: 
@@ -190,7 +190,7 @@
       format: Lecture (Ana)
       theme: cont. 
       topics: Lasso + MP + Comp. Sensing
-      notes: 
+      notes: https://drive.google.com/file/d/1wKA4gAF-nS3_s4WsiS2Kwoa7_pdulr6p/view?usp=share_link
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp + Gilbert]</a>
@@ -199,10 +199,10 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Cross-Validation and p-values
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 5.5<a>; <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf">[Ethics Read]</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.8</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 5.5<a>; <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf">[Ethics Read]</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.8</a>; <a href="https://en.wikipedia.org/wiki/P-value">P-value</a>
       due:
 
 - week: 11
@@ -220,10 +220,10 @@
       format: Lecture (Ana)
       theme: cont.
       topics: more PCA, and Random Projections
-      notes: ""
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.9</a>
       due: 
 
 - week: 12
@@ -256,7 +256,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 8.6</a>; <a href="http://www.mmds.org/">MMDS 9.1</a>; <a href="http://www.dbs.ifi.lmu.de/Publikationen/Papers/tutorial_slides.pdf">[tutorial]</a>
       due: 
     - date: 4/5
       format: Lecture (Ana)
@@ -300,7 +300,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L24-MapReduce.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="http://www.mmds.org/">MMDS 2</a>
       due: <span style="color:purple">Project poster outline due</span>
     - date: 4/19
       format: Lecture (Ana)
@@ -309,7 +309,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L25-Communities.pdf
       recording: "" 
       slides: ""
-      readings: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 10.4</a>; <a href="http://www.mmds.org/">MMDS 10.2 + 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.8 + 3.4</a>
       due: <span style="color:purple">Project poster final version due</span>
 
 - week: 16
