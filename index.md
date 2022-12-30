@@ -101,4 +101,4 @@ The calendar and readings are **tentative** and **subject to change**.
 
 ## Acknowledgements
 
-The content of this webpage is almost entirely copied from the [earlier versions of this course](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) that was designed and taught by [Prof. Jeff M. Phillips](https://www.cs.utah.edu/~jeffp/). 
+The content of this webpage is almost entirely copied from a [previous instance of this course](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) that was designed and taught by [Prof. Jeff M. Phillips](https://www.cs.utah.edu/~jeffp/). 
