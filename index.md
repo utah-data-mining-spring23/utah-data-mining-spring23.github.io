@@ -45,7 +45,7 @@ Upon completion, students should be able to read, understand, and implement idea
 
 ## Materials 
 
-The book for this course will mostly be a nearly-complete book on the [Mathematical Foundation for Data Analysis](https://mathfordata.github.io/) **(M4D)**, version v0.6. However, the lectures will follow more closely [Jeff Phillips'](https://www.cs.utah.edu/~jeffp/) related [Data Mining course notes](https://www.cs.utah.edu/~jeffp/DMBook/DM-AGP.html), and in several cases, these have not made it into the above book (yet?).
+The book for this course will mostly be a nearly-complete book on the [Mathematical Foundation for Data Analysis](https://mathfordata.github.io/) **(M4D)**, version v0.6. However, the lectures will follow more closely [Prof. Jeff M. Phillips'](https://www.cs.utah.edu/~jeffp/) related [Data Mining course notes](https://www.cs.utah.edu/~jeffp/DMBook/DM-AGP.html), and in several cases, these have not made it into the above book (yet?).
 
 We will also often link to two other online resources that cover similar material, either with a more applied or theoretical focus:
 
@@ -93,3 +93,7 @@ The calendar and readings are **tentative** and **subject to change**.
   </tbody>
 </table>
 
+
+## Acknowledgements
+
+The content of this webpage is almost entirely copied from the [earlier versions of this course](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) that was designed and taught by [Prof. Jeff M. Phillips](https://www.cs.utah.edu/~jeffp/). 
