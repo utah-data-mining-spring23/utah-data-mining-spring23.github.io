@@ -20,12 +20,12 @@ MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); will be recorded
 {{ staffer }}
 {% endfor %}
 
-{% assign lead_ta = site.staffers | where: 'role', 'Lead Teaching Assistant' %}
+{% assign lead_ta = site.staffers | where: 'role', 'Lead TA' %}
 {% for staffer in lead_ta %}
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'TA' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 

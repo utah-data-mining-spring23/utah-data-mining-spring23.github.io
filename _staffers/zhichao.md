@@ -1,6 +1,6 @@
 ---
 name: Zhichao Xu
-role: Lead Teaching Assistant
+role: Lead TA
 email: zhichao.xu@utah.edu
 website: https://zhichaoxu-utah.github.io/
 photo: zhichao.png
