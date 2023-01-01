@@ -95,7 +95,7 @@ The best projects occur on topics that students have experience with and/or are 
 
 If you still have trouble finding a topic, I suggest exploring these resources for interesting datasets to explore.  You cannot just explore a data set, you must propose to find some structure in it. 
 
-* <a>https://www.kaggle.com/datasets</a>
+* <https://www.kaggle.com/datasets>
 * <a>http://snap.stanford.edu/data/</a>
 * <a>http://www.census.gov/</a>
 * <a>http://meta.wikimedia.org/wiki/Data_dumps</a>
