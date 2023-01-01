@@ -96,18 +96,18 @@ The best projects occur on topics that students have experience with and/or are 
 If you still have trouble finding a topic, I suggest exploring these resources for interesting datasets to explore.  You cannot just explore a data set, you must propose to find some structure in it. 
 
 * <https://www.kaggle.com/datasets>
-* <a>http://snap.stanford.edu/data/</a>
-* <a>http://www.census.gov/</a>
-* <a>http://meta.wikimedia.org/wiki/Data_dumps</a>
-* <a>http://storage.googleapis.com/books/ngrams/books/datasetsv2.html</a>
-* <a>https://huggingface.co/datasets/allenai/c4</a>
-* <a>http://kdd.ics.uci.edu/</a>
-* <a>http://www.cise.ufl.edu/research/sparse/matrices/</a>
-* <a>http://webscope.sandbox.yahoo.com/</a>
-* <a>http://www.google.com/publicdata/directory</a>
-* <a>https://aws.amazon.com/datasets</a>
-* <a>https://dev.twitter.com/streaming/overview</a>
-* <a>http://lib.stat.cmu.edu/datasets/</a>
+* <http://snap.stanford.edu/data/>
+* <http://www.census.gov/>
+* <http://meta.wikimedia.org/wiki/Data_dumps>
+* <http://storage.googleapis.com/books/ngrams/books/datasetsv2.html>
+* <https://huggingface.co/datasets/allenai/c4>
+* <http://kdd.ics.uci.edu/>
+* <http://www.cise.ufl.edu/research/sparse/matrices/>
+* <http://webscope.sandbox.yahoo.com/>
+* <http://www.google.com/publicdata/directory>
+* <https://aws.amazon.com/datasets>
+* <https://dev.twitter.com/streaming/overview>
+* <http://lib.stat.cmu.edu/datasets/>
 
 If you have an advisor, they may also be good source of problems and data.  
 
