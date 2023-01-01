@@ -123,7 +123,7 @@ _Often a surprising amount of time in data mining is spent in acquiring and mani
 Please report:
 * How you obtained your data?
 * How large is your data?
-* In what format are you storing your data.  Describe the \emph{abstract data type}, not just the file format.  
+* In what format are you storing your data.  Describe the _abstract data type_, not just the file format.  
 * Did you need to process the original data to get it into an easier, more compressed format (e.g., convert from one format to another one)?
 * How would you simulate similar data?  
 
@@ -153,7 +153,7 @@ Perhaps you have finished all of the coding and setup already and just need to r
 
 Specifically describe:
 
-* What progress you have made towards your proposed goal? (just data collection is \emph{not} an option)
+* What progress you have made towards your proposed goal? (just data collection is _not_ an option)
 * If you tried some basic approaches: what worked well and what did not?
 * What could be done to improve the basic approaches?
 * What experiments have you run and are you planning to run to demonstrate the effectiveness?
@@ -192,7 +192,7 @@ State this clearly in the beginning; try to make me excited to read the remainde
 * Explain what you did.  Did you prove something?  Did you implement something?  Did you compare several things?  Did you extend something?  
 
 * Explain what you learned.  This is often greatly aided through charts of experiments.  But you should also include what lessons you came away with in words; just charts or mathematics is insufficient.  
-\end{enumerate}
+
 
 ## Poster Presentations (20 points)
 
