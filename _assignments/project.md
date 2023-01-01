@@ -100,6 +100,7 @@ If you still have trouble finding a topic, I suggest exploring these resources f
 * <a>http://www.census.gov/</a>
 * <a>http://meta.wikimedia.org/wiki/Data_dumps</a>
 * <a>http://storage.googleapis.com/books/ngrams/books/datasetsv2.html</a>
+* <a>https://huggingface.co/datasets/allenai/c4</a>
 * <a>http://kdd.ics.uci.edu/</a>
 * <a>http://www.cise.ufl.edu/research/sparse/matrices/</a>
 * <a>http://webscope.sandbox.yahoo.com/</a>
