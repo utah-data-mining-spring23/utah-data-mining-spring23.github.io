@@ -26,9 +26,7 @@ Your project will consist of five elements.
 
 As in any research in order to get people to pay attention, you will need to be able to present your work efficiently in written and oral form.  
 
-You may work in teams of 2 or 3, but the amount of work you perform will need to scale accordingly.  Teams of size 1 might be allowed under unusual circumstances with special permission from the instructor.  
-All students will need to have clearly defined roles as demonstrated in the final report and presentation.  
-I highly recommend groups of size 3.  Although the project work will scale with students, the administrative parts will remain constant, so having a large group will make it easier for you.  
+You may work in teams of 2 or 3, but the amount of work you perform will need to scale accordingly.  Teams of size 1 might be allowed under unusual circumstances with special permission from the instructor.  All students will need to have clearly defined roles as demonstrated in the final report and presentation.  I highly recommend groups of size 3.  Although the project work will scale with students, the administrative parts will remain constant, so having a large group will make it easier for you.  
 
 Note that some topics will not be covered before many elements of the project are due.  I realize this is not ideal.  However, typically, most work on a project is crammed in the last week or two of the semester, which is also not ideal.  In the past this has lead to much stronger projects without considerably more work required.  
 
@@ -97,6 +95,7 @@ The best projects occur on topics that students have experience with and/or are 
 
 If you still have trouble finding a topic, I suggest exploring these resources for interesting datasets to explore.  You cannot just explore a data set, you must propose to find some structure in it. 
 
+* <a>https://www.kaggle.com/datasets</a>
 * http://snap.stanford.edu/data/
 * http://www.census.gov/
 * http://data.geocomm.com/catalog/
