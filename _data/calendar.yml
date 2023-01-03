@@ -139,7 +139,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[BF Analysis]</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[Bose et al., 2008]</a>
       due: <span style="color:orange">HW Clustering due</span>
 
 - week: 8
@@ -193,7 +193,7 @@
       notes: https://drive.google.com/file/d/1wKA4gAF-nS3_s4WsiS2Kwoa7_pdulr6p/view?usp=share_link
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp + Gilbert]</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
       due: 
     - date: 3/15
       format: Lecture (Ana)
@@ -202,7 +202,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf">[Ethics Read]</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.8</a>; <a href="https://en.wikipedia.org/wiki/P-value">P-value</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf">[Gelman and Loken, 2013]</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.8</a>; <a href="https://en.wikipedia.org/wiki/P-value">P-value</a>
       due:
 
 - week: 11
@@ -235,7 +235,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L16-MatrixSketching.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://www.mmds.org/">MMDS 9.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7 + 7.2.2</a>; <a href="http://arxiv.org/abs/1501.01711">[arXiv]</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://www.mmds.org/">MMDS 9.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7 + 7.2.2</a>; <a href="http://arxiv.org/abs/1501.01711">[Ghashami et al., 2015]</a>
       due: 
     - date: 3/29
       format: Lecture (Ana)
@@ -265,7 +265,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L21-Privacy.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md">[McSherry]</a>; <a href="http://research.microsoft.com/pubs/64346/dwork.pdf">Dwork</a>
+      readings: <a href="https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md">[blog]</a>; <a href="http://research.microsoft.com/pubs/64346/dwork.pdf">Dwork</a>
       due: <span style="color:orange">HW Dim Reduce due</span>
 
 
@@ -278,7 +278,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L22-MarkovChain.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 10.1</a>; <a href="http://www.mmds.org/">MMDS 10.1 + 5.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 5</a>; <a href="http://math.colgate.edu/~wweckesser/math312Spring05/handouts/MarkovChains.pdf">Weckesser</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 10.1</a>; <a href="http://www.mmds.org/">MMDS 10.1 + 5.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 5</a>; <a href="http://math.colgate.edu/~wweckesser/math312Spring05/handouts/MarkovChains.pdf">[Weckesser's notes]</a>
       due: 
     - date: 4/12  
       format: Lecture (Ana)
