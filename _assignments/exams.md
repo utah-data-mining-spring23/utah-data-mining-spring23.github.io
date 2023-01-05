@@ -7,6 +7,8 @@ include_nav_home: false
 
 There will be two in-person tests (mid-term and end-term), each covering roughly half the material in class. Attendence is mandatory. They will be open notes; you can bring 1 sheet of paper (front and back). No computers or calculators will be allowed. Exams make up  **20% of the final grade**. 
 
+_No exam may be taken at a different time for any reason other than a medical emergency or conflict with another exam, and documentation may be required._
+
 
 ## Grading 
 
