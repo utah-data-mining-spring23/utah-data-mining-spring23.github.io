@@ -12,7 +12,7 @@ seo:
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); will be streamed/available at [UofUDataScience YT](https://www.youtube.com/@UofUDataScience)
+MoWe / 3-4:20PM, [L101 WEB](https://bit.ly/3wBNjzE); will be streamed at [UofUDataScience YT](https://www.youtube.com/@UofUDataScience)
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
