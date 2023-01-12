@@ -11,8 +11,8 @@
       theme: 
       topics: Statistics Principles
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L2-StatisticalPrinciples.pdf
-      recording: "" 
-      slides: ""
+      recording: "https://youtu.be/ul4QxYvMrdo"
+      slides: "https://drive.google.com/file/d/1TQc75z8iP_h_SlXQUA4CPrH45MyFe3Yy/view?usp=sharing"
       readings: <a href="https://mathfordata.github.io/">M4D 2.2-2.3</a>; <a href="http://www.mmds.org/">MMDS 1.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 12.4</a>
 - week: 2
   days:
@@ -21,8 +21,8 @@
       theme:  
       topics: <b><span style="color:green">Martin Luther King Jr. Day holiday</span></b> 
       notes: 
-      recording: 
-      slides: 
+      recording:
+      slides:
       readings: ""
       due:     
     - date: 1/18
