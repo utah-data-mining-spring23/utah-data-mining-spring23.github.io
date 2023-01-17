@@ -58,16 +58,7 @@
 
 - week: 4
   days:
-    - date: 1/30
-      format: Lecture (Ana)
-      theme: cont.
-      topics: Distances
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L6-Distances.pdf
-      recording: "" 
-      slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 4-4.3</a>; <a href="http://www.mmds.org/">MMDS 3.5 + 7.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.1</a>
-      due:
-    - date: 2/1    
+    - date: 1/30  
       format: Lecture (Ana)
       theme: cont.
       topics: Word Embed + ANN vs. LSH
@@ -75,6 +66,14 @@
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 4.4</a>; <a href="https://arxiv.org/abs/1607.06520">[Bolukbasi et al., 2016]</a>; <a href="http://www.mmds.org/">MMDS 3.7 + 7.1.3</a>
+    - date: 2/1    
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Distances
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L6-Distances.pdf
+      recording: "" 
+      slides: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 4-4.3</a>; <a href="http://www.mmds.org/">MMDS 3.5 + 7.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.1</a>
       due: <span style="color:orange">HW Document Hash due</span>
 
 - week: 5
