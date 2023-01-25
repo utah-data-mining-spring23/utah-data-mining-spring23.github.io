@@ -187,7 +187,7 @@
       format: Lecture (Ana)
       theme: cont. 
       topics: Lasso + MP + Comp. Sensing
-      notes: https://drive.google.com/file/d/1wKA4gAF-nS3_s4WsiS2Kwoa7_pdulr6p/view?usp=share_link
+      notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
@@ -196,7 +196,7 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Cross-Validation and p-values
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
+      notes: "https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf"
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf">[Gelman and Loken, 2013]</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.8</a>; <a href="https://en.wikipedia.org/wiki/P-value">P-value</a>
