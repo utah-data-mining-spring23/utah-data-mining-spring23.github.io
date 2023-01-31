@@ -63,8 +63,8 @@
       theme: cont.
       topics: Distances
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L6-Distances.pdf
-      recording: "" 
-      slides: ""
+      recording: "https://www.youtube.com/live/a55NFU6b9-E?feature=share" 
+      slides: "https://drive.google.com/file/d/1A4JuWT0Rn6CBpg5009V_8faErz4Sm0An/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 4-4.3</a>; <a href="http://www.mmds.org/">MMDS 3.5 + 7.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.1</a>
     - date: 2/1    
       format: Lecture (Ana)
