@@ -124,8 +124,7 @@ Please report:
 * How you obtained your data?
 * How large is your data?
 * In what format are you storing your data.  Describe the _abstract data type_, not just the file format.  
-* Did you need to process the original data to get it into an easier, more compressed format (e.g., convert from one format to another one)?
-* How would you simulate similar data?  
+* Did you need to process the original data to get it into an easier, more compressed format (e.g., convert from one format to another one)?     
 
 For this report, I really want you to focus on which of the abstract data types (e.g., matrix, graph, point set, set of sets, or a combination of these) that you will think of this data set as.  
 In many cases you will not store the data in the original format, and you will need to convert it to another format.  I want you to think about this conversion along the idea of these abstract representations.  
@@ -133,8 +132,6 @@ This is usually the most challenging aspect for students.  These decisions shoul
 
 For instance, do not say data is a vector (which implies Euclidian distance) if the coordinates have different units, and are not compatible, unless the goal is only regression.  Do not have each entry be a piece of text; it can be a count of the number of a word or set of words, but not a piece of text.  This is usually not useful.  Same goes for a matrix representation with different meanings for each column.  Think carefully about this, and ask the instructor if you are not sure.  
 
-Step 5 is to make you think about how you would _model_ your data.  The structure you hope to find is likely correlated with how you model your data.  Given a model, you can (at least theoretically) then generate random data from this model.  Sometimes this is actually a hard open problem (e.g. for graphs of social networks).  This is important for most statistical analysis of your data to validate how well your technique will actually work.  
-And will also be important if you want to generate synthetic data to see how your technique scales beyond the real data set you have gathered.  
 
 ## Intermediate Report (15 points)
 
