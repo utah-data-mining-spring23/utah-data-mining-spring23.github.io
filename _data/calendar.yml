@@ -71,9 +71,9 @@
       theme: cont.
       topics: Embeddings
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L7-highD+ANN.pdf
-      recording: "" 
-      slides: ""
-      readings: <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">[Speech and Language Processing Sec 6]</a>; <a href="https://arxiv.org/abs/1607.06520">[Bolukbasi et al., 2016]</a>
+      recording: "https://www.youtube.com/live/41QAjd8irac?feature=share" 
+      slides: "https://drive.google.com/file/d/1w8pRyE5dtpX78hcYUJztHntCFNjruUHL/view?usp=sharing"
+      readings: <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">[Speech & Language Processing Sec 6]</a>; <a href="https://arxiv.org/abs/1607.06520">[Bolukbasi et al., 2016]</a>
       due: <span style="color:orange">HW Document Hash due</span>
 
 - week: 5
