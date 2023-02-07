@@ -83,8 +83,8 @@
       theme: <b>Clustering</b>
       topics: Hierarchical
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L8-hierarch.pdf
-      recording: "" 
-      slides: ""
+      recording: "https://www.youtube.com/live/UICI8JK3kJQ?feature=share" 
+      slides: "https://drive.google.com/file/d/19S1Q_CHNlwzEY3H0nisduAmseTdXqMfJ/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 8.5 + 8.2</a>; <a href="http://www.mmds.org/">MMDS 7.2</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.7</a>
       due: 
     - date: 2/8
