@@ -92,8 +92,8 @@
       theme: cont.
       topics: K-Means
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L9-kmeans.pdf
-      recording: "" 
-      slides: ""
+      recording: "https://www.youtube.com/live/UTyOiYX5PTw?feature=share&t=27" 
+      slides: "https://drive.google.com/file/d/1n3nVmhdo-yR2SjUQkCcL2j6N7Zj8uQg_/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 8-8.3</a>; <a href="http://www.mmds.org/">MMDS 7.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.2-7.3</a>
       due: <span style="color:orange">HW LSH due</span>
 - week: 6
