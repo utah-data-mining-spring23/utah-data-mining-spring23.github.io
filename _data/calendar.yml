@@ -103,8 +103,8 @@
       theme: cont.
       topics: Spectral
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L10-spectral.pdf
-      recording: "" 
-      slides: ""
+      recording: "https://www.youtube.com/live/tGJtq3stb64?feature=share" 
+      slides: "https://drive.google.com/file/d/1zEMtMdnJl8fM5ix0-fBr57yQIwrLnMWi/view?usp=share_link"
       readings: <a href="https://arxiv.org/abs/0711.0189">[von Luxburg, 2007]</a>; <a href="https://mathfordata.github.io/">M4D 10.3</a>; <a href="http://www.mmds.org/">MMDS 10.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 7.5</a>
       due: 
 
