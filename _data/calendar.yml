@@ -136,7 +136,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[Bose et al., 2008]</a>
+      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[Bose et al., 2008]</a>
       due: <span style="color:orange">HW Clustering due</span>
 
 - week: 8
