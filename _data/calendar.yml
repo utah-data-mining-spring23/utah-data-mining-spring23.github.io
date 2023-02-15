@@ -115,7 +115,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L11-Heavy-Hitters.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 11.1-11.2.2</a>; <a href="http://www.mmds.org/">MMDS 6</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a> 
+      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.1-11.2.2</a>; <a href="http://www.mmds.org/">MMDS 6</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a> 
       due: <span style="color:purple">Project data collection report due</span>
 
 - week: 7
