@@ -113,8 +113,8 @@
       theme: <b>Streaming</b>
       topics: Model and Misra-Greis
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L11-Heavy-Hitters.pdf
-      recording: "" 
-      slides: ""
+      recording: "https://www.youtube.com/live/tLxaMarcMHc?feature=share" 
+      slides: "https://drive.google.com/file/d/13wU-jg4bSofV7q-GngyA-1xq1fPlwfsY/view?usp=share_link"
       readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.1-11.2.2</a>; <a href="http://www.mmds.org/">MMDS 6</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a> 
       due: <span style="color:purple">Project data collection report due</span>
 
