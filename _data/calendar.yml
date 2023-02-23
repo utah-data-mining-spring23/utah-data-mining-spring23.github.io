@@ -132,10 +132,10 @@
     - date: 2/22
       format: Lecture (Ana)
       theme: cont.
-      topics: Count-Min Sketch, Count Sketch, and Apriori
+      topics: Count-Min Sketch
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
-      recording: "" 
-      slides: ""
+      recording: "https://www.youtube.com/live/AUCibAgLmHg?feature=share" 
+      slides: "https://drive.google.com/file/d/1lYEixkZRFjzoTtX_xvKA9U5xspjAflzB/view?usp=sharing"
       readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[Bose et al., 2008]</a>
       due: <span style="color:orange">HW Clustering due</span>
 
@@ -143,12 +143,12 @@
   days:
     - date: 2/27
       format: Lecture (Ana)
-      theme: <b>Regression</b>
-      topics: Basics, and Ridge Regression
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L13-Regression.pdf
+      theme: cont.
+      topics: Count Sketch, Bloom Filters, and Apriori
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 5-5.3</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.2 + 3.4</a>
+      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[Bose et al., 2008]</a>
       due:
     - date: 3/1
       format: Lecture (Ana)
@@ -185,22 +185,22 @@
   days:
     - date: 3/13
       format: Lecture (Ana)
-      theme: cont. 
-      topics: Lasso + MP + Comp. Sensing
+      theme: <b>Regression</b>
+      topics: Basics, and Ridge Regression
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L13-Regression.pdf
+      recording: "" 
+      slides: ""
+      readings: <a href="https://mathfordata.github.io/">M4D 5-5.3</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.2 + 3.4</a>
+      due:
+    - date: 3/15
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Lasso + MP + Comp. Sensing + more?
       notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
       due: 
-    - date: 3/15
-      format: Lecture (Ana)
-      theme: cont.
-      topics: Cross-Validation and p-values
-      notes: "https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf"
-      recording: "" 
-      slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf">[Gelman and Loken, 2013]</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.8</a>; <a href="https://en.wikipedia.org/wiki/P-value">P-value</a>
-      due:
 
 - week: 11
   days:
