@@ -136,7 +136,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
       recording: "https://www.youtube.com/live/AUCibAgLmHg?feature=share" 
       slides: "https://drive.google.com/file/d/1lYEixkZRFjzoTtX_xvKA9U5xspjAflzB/view?usp=sharing"
-      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[Bose et al., 2008]</a>
+      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="https://web.stanford.edu/class/archive/cs/cs166/cs166.1206/lectures/10/Slides10.pdf">Stanford CS166 L10</a>
       due: <span style="color:orange">HW Clustering due</span>
 
 - week: 8
@@ -148,7 +148,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L12-Count-Min+Apriori.pdf
       recording: "https://www.youtube.com/live/AYB3MGjaIeI?feature=share&t=27" 
       slides: "https://drive.google.com/file/d/1by2hDPuX1T6o9TC0LvnLlcM57Us2tA5o/view?usp=sharing"
-      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://aclanthology.org/D12-1100/">[Goyal et al., 2012]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="http://www.mmds.org/">MMDS 4.3</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 6.2.3</a>; <a href="http://people.scs.carleton.ca/~kranakis/Papers/TR-07-07.pdf">[Bose et al., 2008]</a>
+      readings: <a href="http://dimacs.rutgers.edu/~graham/pubs/papers/freqvldbj.pdf">[Cormode and Hadjieleftheriou, 2010]</a>; <a href="https://aclanthology.org/D12-1100/">[Goyal et al., 2012]</a>; <a href="https://mathfordata.github.io/">M4D 11.2.3-4</a>; <a href="https://web.stanford.edu/class/archive/cs/cs166/cs166.1206/lectures/11/Slides11.pdf">Stanford CS166 L11</a>
       due:
     - date: 3/1
       format: Lecture (Ana)
