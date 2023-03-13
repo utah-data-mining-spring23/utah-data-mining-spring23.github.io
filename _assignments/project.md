@@ -137,7 +137,7 @@ For instance, do not say data is a vector (which implies Euclidian distance) if 
 
 **Due March 20**  at  **11:59 PM**.
 
-_Unlike other components, this one will be **due at noon**.  Then each project team will be assigned 2 other project teams. **In class on March 22**, we will spend half the time with project teams meeting and peer evaluating each other's projects. Before March 22 class, you must read reports of two other projects. Teams will have an option to update their reports before evaluated by the instructor.  Remote students will be able to discuss over Zoom or other means if preferred._ 
+_Each project team will be assigned 2 other project teams. **In class on March 22**, we will spend half the time with project teams meeting and peer evaluating each other's projects. Before March 22 class, you must read reports of two other projects. Teams will have an option to update their reports before evaluated by the instructor.  Remote students will be able to discuss over Zoom or other means if preferred._ 
 
 Prepare an **at most 1 page per student** report describing your progress so far towards your proposed goal.  That is 2 students can turn in 2 pages, and 3 students can turn in 3 pages.  
 
