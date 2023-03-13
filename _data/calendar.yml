@@ -207,7 +207,7 @@
     - date: 3/20
       format: Lecture (Ana)
       theme: <b>Dim Reduce</b>
-      topics: <span style="color:purple">Projects peer feedback</span>; SVD + PCA
+      topics: SVD + PCA
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
       recording: "" 
       slides: ""
@@ -216,12 +216,12 @@
     - date: 3/22
       format: Lecture (Ana)
       theme: cont.
-      topics: more PCA, and Random Projections
+      topics: <span style="color:purple">Projects peer feedback</span>; Random Projections
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.9</a>
-      due: 
+      due: <span style="color:purple">Read 2 peer intermediate reports due</span>
 
 - week: 12
   days:
