@@ -268,16 +268,7 @@
 
 - week: 14
   days:
-    - date: 4/10
-      format: Lecture (Ana)
-      theme: <b>Graph Analysis</b>
-      topics: Markov Chains
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L22-MarkovChain.pdf
-      recording: "" 
-      slides: ""
-      readings: <a href="https://mathfordata.github.io/">M4D 10.1</a>; <a href="http://www.mmds.org/">MMDS 10.1 + 5.1</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 5</a>; <a href="http://math.colgate.edu/~wweckesser/math312Spring05/handouts/MarkovChains.pdf">[Weckesser's notes]</a>
-      due: 
-    - date: 4/12  
+    - date: 4/10  
       format: Lecture (Ana)
       theme:  cont.
       topics: PageRank
@@ -285,12 +276,8 @@
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 10.2</a>; <a href="http://www.mmds.org/">MMDS 5.1 + 5.4</a>
-      due: <span style="color:purple">Project final report due</span>
-
-
-- week: 15
-  days:
-    - date: 4/17
+      due: 
+    - date: 4/12
       format: Lecture (Ana)
       theme: cont.
       topics: MapReduce 
@@ -298,8 +285,11 @@
       recording: "" 
       slides: ""
       readings: <a href="http://www.mmds.org/">MMDS 2</a>
-      due: <span style="color:purple">Project poster outline due</span>
-    - date: 4/19
+      due: <span style="color:purple">Project final report due</span>
+
+- week: 15
+  days:
+    - date: 4/17
       format: Lecture (Ana)
       theme:  cont.
       topics: Communities
@@ -307,7 +297,18 @@
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 10.4</a>; <a href="http://www.mmds.org/">MMDS 10.2 + 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.8 + 3.4</a>
+      due: <span style="color:purple">Project poster outline due</span>
+    - date: 4/19
+      format: Lecture (Ana)
+      theme:  cont.
+      topics: Looking back & Semester course feedback
+      notes: 
+      recording: "" 
+      slides: ""
+      readings: ""
       due: <span style="color:purple">Project poster final version due</span>
+
+
 
 - week: 16
   days:
