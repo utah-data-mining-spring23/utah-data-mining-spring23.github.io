@@ -137,15 +137,17 @@ For instance, do not say data is a vector (which implies Euclidian distance) if 
 
 **Due March 20**  at  **noon**.
 
-_Unlike other components, this one will be **due at noon**.  Then each project team will be assigned 2 other project teams.  In class on March 20, we will spend half the time with project teams meeting and peer evaluating each other's projects.  Teams will have an option to update their reports before evaluated by the instructor.  Remote students will be able to discuss over Zoom or other means if preferred.  They can also schedule a time with the instructor._ 
+_Unlike other components, this one will be **due at noon**.  Then each project team will be assigned 2 other project teams.  In class on March 20, we will spend half the time with project teams meeting and peer evaluating each other's projects.  Teams will have an option to update their reports before evaluated by the instructor.  Remote students will be able to discuss over Zoom or other means if preferred._ 
 
 Prepare an **at most 1 page per student** report describing your progress so far towards your proposed goal.  That is 2 students can turn in 2 pages, and 3 students can turn in 3 pages.  
 
 Basically this intermediate report should demonstrate to the instructor that you have made non-trivial progress towards your goal.  
-For instance, perhaps you proposed to take a basic technique and slightly modify it.  Then this intermediate report should note that you have gotten the basic technique working.  
 
-Some basic plots or numbers from experiments that you ran (mainly to convince yourself) that shows everything is working can be included.  
-Perhaps you have finished all of the coding and setup already and just need to run experiments at this point.  Then note that and discuss what suite of experiments you plan to run for the final report.  
+* For instance, perhaps you proposed to take a basic technique and slightly modify it.  Then this intermediate report should note that you have gotten the basic technique working.        
+
+* Some basic plots or numbers from experiments that you ran (mainly to convince yourself) that shows everything is working can be included.            
+
+* Perhaps you have finished all of the coding and setup already and just need to run experiments at this point.  Then note that and discuss what suite of experiments you plan to run for the final report.             
 
 
 Specifically describe:
@@ -153,12 +155,7 @@ Specifically describe:
 * What progress you have made towards your proposed goal? (just data collection is _not_ an option)
 * If you tried some basic approaches: what worked well and what did not?
 * What could be done to improve the basic approaches?
-* What experiments have you run and are you planning to run to demonstrate the effectiveness?
-
-Each student group should schedule a time to meet with the instructor the week the intermediate report is due.  
-Bring a print out of the intermediate report to this meeting --- it can be updated after the peer review.  A mechanism for signing up will be available closer to this date.  
-
-The instructor will attempt to provide feedback to make the final reports as strong as possible.  Thus the more progress you have made and the more information you include, the more success you will likely have with your final report.  
+* What other experiments have you run and are you planning to run to demonstrate the effectiveness?
 
 
 ## Final Report (50 points)
