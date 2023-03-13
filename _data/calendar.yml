@@ -207,7 +207,7 @@
     - date: 3/20
       format: Lecture (Ana)
       theme: <b>Dim Reduce</b>
-      topics: Projects peer feedback; SVD + PCA
+      topics: <span style="color:purple">Projects peer feedback</span>; SVD + PCA
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
       recording: "" 
       slides: ""
