@@ -186,7 +186,7 @@
     - date: 3/13
       format: Lecture (Ana)
       theme: <b>Regression</b>
-      topics: Basics, and Ridge Regression
+      topics: Linear Regression
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L13-Regression.pdf
       recording: "" 
       slides: ""
@@ -195,7 +195,7 @@
     - date: 3/15
       format: Lecture (Ana)
       theme: cont.
-      topics: Lasso + MP + Comp. Sensing + more?
+      topics: Nonlinear Regression; Regularizarion; more?
       notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
       recording: "" 
       slides: ""
@@ -207,7 +207,7 @@
     - date: 3/20
       format: Lecture (Ana)
       theme: <b>Dim Reduce</b>
-      topics: Projects peer feedback;SVD + PCA
+      topics: Projects peer feedback; SVD + PCA
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
       recording: "" 
       slides: ""
