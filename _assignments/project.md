@@ -158,6 +158,12 @@ Specifically describe:
 * What other experiments have you run and are you planning to run to demonstrate the effectiveness?
 
 
+Updated reports: 
+
+* Until Monday, March 20, 11:59 PM, you can notify the professor about whether you plan to update your report and how. 
+
+* Professor will repond with a deadline for making updates.
+
 ## Final Report (50 points)
 
 **Due April 12**
