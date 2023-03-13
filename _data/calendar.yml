@@ -270,7 +270,7 @@
   days:
     - date: 4/10  
       format: Lecture (Ana)
-      theme:  cont.
+      theme:  <b>Graphs</b>
       topics: PageRank
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
       recording: "" 
@@ -300,7 +300,7 @@
       due: <span style="color:purple">Project poster outline due</span>
     - date: 4/19
       format: Lecture (Ana)
-      theme:  cont.
+      theme:  <b>Wrap-up</b>
       topics: Looking back & Semester course feedback
       notes: 
       recording: "" 
