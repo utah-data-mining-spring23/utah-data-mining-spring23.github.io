@@ -195,10 +195,10 @@
     - date: 3/15
       format: Lecture (Ana)
       theme: cont.
-      topics: Nonlinear Regression; Regularizarion; more?
+      topics: Nonlinear Regression; Regularizarion 
       notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
-      recording: "" 
-      slides: "https://drive.google.com/file/d/1blwoKHP2BHTkpbkmJ0FJqFN2Q8jNj3IG/view?usp=share_link"
+      recording: "https://www.youtube.com/live/0bUKL1emx2E?feature=share&t=35" 
+      slides: "https://drive.google.com/file/d/1oB6DjayWd_tWMI05eOPxDX9p2gfM5Vp_/view?usp=sharing"
       readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
       due: 
 
