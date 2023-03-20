@@ -210,7 +210,7 @@
       topics: SVD + PCA
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
       recording: "" 
-      slides: ""
+      slides: "https://drive.google.com/file/d/1OHIDsMTpZFeCMyj3ZzXkC--pNXyPc4hP/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 4</a>
       due: <span style="color:purple">Project intermediate report due</span>
     - date: 3/22
