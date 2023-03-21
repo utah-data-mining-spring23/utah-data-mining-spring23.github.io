@@ -198,7 +198,7 @@
       topics: Nonlinear Regression; Regularizarion 
       notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
       recording: "https://www.youtube.com/live/0bUKL1emx2E?feature=share&t=35" 
-      slides: "https://drive.google.com/file/d/1oB6DjayWd_tWMI05eOPxDX9p2gfM5Vp_/view?usp=sharing"
+      slides: "https://drive.google.com/file/d/1-lK5PcLLM2wls6rtepA5oT0LE1X05nND/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
       due: 
 
@@ -209,7 +209,7 @@
       theme: <b>Dim Reduce</b>
       topics: SVD + PCA
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
-      recording: "" 
+      recording: "https://www.youtube.com/live/S0UjnZlHDqA?feature=share&t=38" 
       slides: "https://drive.google.com/file/d/1OHIDsMTpZFeCMyj3ZzXkC--pNXyPc4hP/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 4</a>
       due: <span style="color:purple">Project intermediate report due</span>
@@ -219,7 +219,7 @@
       topics: <span style="color:purple">Projects peer feedback</span>; Random Projections
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
       recording: "" 
-      slides: ""
+      slides: "https://drive.google.com/file/d/1s5dd7vkuf4QczwhD7eaFer6NVwXHXH7X/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.9</a>
       due: <span style="color:purple">Read 2 peer intermediate reports due</span>
 
