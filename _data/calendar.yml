@@ -210,7 +210,7 @@
       topics: SVD + PCA
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
       recording: "https://www.youtube.com/live/S0UjnZlHDqA?feature=share&t=38" 
-      slides: "https://drive.google.com/file/d/1OHIDsMTpZFeCMyj3ZzXkC--pNXyPc4hP/view?usp=share_link"
+      slides: "https://drive.google.com/file/d/1s5dd7vkuf4QczwhD7eaFer6NVwXHXH7X/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 4</a>
       due: <span style="color:purple">Project intermediate report due</span>
     - date: 3/22
@@ -219,7 +219,7 @@
       topics: <span style="color:purple">Projects peer feedback</span>; Random Projections
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
       recording: "" 
-      slides: "https://drive.google.com/file/d/1s5dd7vkuf4QczwhD7eaFer6NVwXHXH7X/view?usp=share_link"
+      slides: "https://drive.google.com/file/d/15xLAJAa0_3JLCUu4IcUuW5xcYmIwEbau/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.9</a>
       due: <span style="color:purple">Read 2 peer intermediate reports due</span>
 
