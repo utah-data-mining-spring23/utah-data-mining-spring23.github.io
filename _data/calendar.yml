@@ -216,7 +216,7 @@
     - date: 3/22
       format: Lecture (Ana)
       theme: cont.
-      topics: <span style="color:purple">Projects peer feedback</span>; Random Projections
+      topics: <span style="color:purple">Projects peer feedback</span>; Random Projection
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
       recording: "https://www.youtube.com/live/WyDHUiJs4oU?feature=share" 
       slides: "https://drive.google.com/file/d/15Mz0b1IVwa-plYR_fgAUfj9LfYxZybSd/view?usp=share_link"
@@ -228,10 +228,10 @@
     - date: 3/27
       format: Lecture (Ana)
       theme: cont.
-      topics: Matrix Sketching
+      topics: Frequent Directions
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L16-MatrixSketching.pdf
       recording: "" 
-      slides: ""
+      slides: "https://drive.google.com/file/d/1AG5MVTncWTSuqXkHc4o_vlbvwT-nBzPt/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://www.mmds.org/">MMDS 9.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7 + 7.2.2</a>; <a href="http://arxiv.org/abs/1501.01711">[Ghashami et al., 2015]</a>
       due: 
     - date: 3/29
