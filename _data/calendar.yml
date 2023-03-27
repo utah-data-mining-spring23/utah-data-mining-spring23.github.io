@@ -230,8 +230,8 @@
       theme: cont.
       topics: Frequent Directions
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L16-MatrixSketching.pdf
-      recording: "" 
-      slides: "https://drive.google.com/file/d/1AG5MVTncWTSuqXkHc4o_vlbvwT-nBzPt/view?usp=share_link"
+      recording: "https://www.youtube.com/live/ckxLrHGT0ZM?feature=share&t=20" 
+      slides: "https://drive.google.com/file/d/1QFkDRJrGsermIGggG25ETnmpKnLCj0S5/view?usp=share_link"
       readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://www.mmds.org/">MMDS 9.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7 + 7.2.2</a>; <a href="http://arxiv.org/abs/1501.01711">[Ghashami et al., 2015]</a>
       due: 
     - date: 3/29
