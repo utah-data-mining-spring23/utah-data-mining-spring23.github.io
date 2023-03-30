@@ -190,7 +190,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L13-Regression.pdf
       recording: "https://www.youtube.com/live/4FtLYQXqWfY?feature=share&t=73" 
       slides: "https://drive.google.com/file/d/1E_fQ1ZHgq1d4LM8IZiMJoNheFLaPwhwB/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 5-5.3</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.2 + 3.4</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 5-5.2</a>; <a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/">ESL 3.2 + 3.4</a>
       due:
     - date: 3/15
       format: Lecture (Ana)
