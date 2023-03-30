@@ -199,7 +199,7 @@
       notes: "https://drive.google.com/file/d/1cAjor55eMUdVxOCKhPtvxZGCAPbxnKvK/view?usp=share_link"
       recording: "https://www.youtube.com/live/0bUKL1emx2E?feature=share&t=35" 
       slides: "https://drive.google.com/file/d/1-lK5PcLLM2wls6rtepA5oT0LE1X05nND/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 5.3-5.5</a>; Extra <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 10.2</a>; <a href="http://users.cms.caltech.edu/~jtropp/papers/TG07-Signal-Recovery.pdf">[Tropp and Gilbert, 2007]</a>
       due: 
 
 - week: 11
@@ -211,7 +211,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L14-SVD.pdf
       recording: "https://www.youtube.com/live/S0UjnZlHDqA?feature=share&t=38" 
       slides: "https://drive.google.com/file/d/1s5dd7vkuf4QczwhD7eaFer6NVwXHXH7X/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 4</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 7-7.3 + 7.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 3-3.6 + 3.8-3.9.2</a>
       due: <span style="color:purple">Project intermediate report due</span>
     - date: 3/22
       format: Lecture (Ana)
@@ -220,7 +220,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L17-Rand-Projections.pdf
       recording: "https://www.youtube.com/live/WyDHUiJs4oU?feature=share" 
       slides: "https://drive.google.com/file/d/15Mz0b1IVwa-plYR_fgAUfj9LfYxZybSd/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.9</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 7.10</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7</a>
       due: <span style="color:purple">Read 2 peer intermediate reports due</span>
 
 - week: 12
@@ -232,7 +232,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L16-MatrixSketching.pdf
       recording: "https://www.youtube.com/live/ckxLrHGT0ZM?feature=share&t=20" 
       slides: "https://drive.google.com/file/d/1QFkDRJrGsermIGggG25ETnmpKnLCj0S5/view?usp=share_link"
-      readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://www.mmds.org/">MMDS 9.4</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 2.7 + 7.2.2</a>; <a href="http://arxiv.org/abs/1501.01711">[Ghashami et al., 2015]</a>
+      readings: <a href="https://mathfordata.github.io/">M4D 11.3</a>; <a href="http://arxiv.org/abs/1501.01711">[Ghashami et al., 2015]</a>
       due: 
     - date: 3/29
       format: Lecture (Ana)
