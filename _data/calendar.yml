@@ -249,20 +249,20 @@
     - date: 4/3
       format: Lecture (Ana)
       theme: <b>Noise</b>
+      topics: Privacy
+      notes: https://www.cs.utah.edu/~jeffp/DMBook/L21-Privacy.pdf
+      recording: <a href="https://www.youtube.com/live/-gNP5vVuj3Y?feature=share&t=510">[from prev year]</a> 
+      slides:
+      readings: <a href="https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md">[blog]</a>
+      due: 
+    - date: 4/5
+      format: Lecture (Ana)
+      theme:  cont.
       topics: Metric learning (cont); Noise in Data
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L20-Noise.pdf
       recording: "" 
       slides: ""
       readings: <a href="https://mathfordata.github.io/">M4D 8.6</a>; <a href="http://www.dbs.ifi.lmu.de/Publikationen/Papers/tutorial_slides.pdf">[tutorial]</a>
-      due: 
-    - date: 4/5
-      format: Lecture (Ana)
-      theme:  cont.
-      topics: Privacy
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L21-Privacy.pdf
-      recording: "" 
-      slides: ""
-      readings: <a href="https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md">[blog]</a>
       due: <span style="color:orange">HW Dim Reduce due</span>
 
 
