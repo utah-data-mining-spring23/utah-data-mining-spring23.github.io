@@ -168,7 +168,7 @@ Updated reports:
 
 **Due April 12**
 
-Your report will be **at most 4 pages per student**, single columned at 11 point or larger font.  Margins should be at least 1 inch.  (If it is shorter, but contains all needed information, it will make the instructor happy.) 
+Your report will be **at most 4 pages per student**, single columned at 11 point or larger font. You can write a report as a group (up to 4*num_students pages) but it must be clear who did what. Margins should be at least 1 inch.  (If it is shorter, but contains all needed information, it will make the instructor happy.) 
 However, you will be allowed an unlimited number of pages for references and appendices.  The report will be graded on the first four pages (per student), but additional information to support the first four pages may be appended and referred to.  The instructor will only read the appendix at her discretion.  Putting _all_ charts and figures in the appendix is not acceptable, and this will result in lost points.  
 
 If you work in a group of more than 1 student, then it should be painfully clear what part of the project was worked on by each student.  If the distribution of work was complicated, a table in the appendix may be a good idea.  
@@ -196,7 +196,9 @@ State this clearly in the beginning; try to make me excited to read the remainde
 
 ## Poster Presentations (20 points)
 
-**Presented April 24** at 3:30-5:30 or 6pm (in MEB hallway near SoC front office)
+**Poster size MUST be 24 x 36 inches**
+
+**Presented April 24** at 3:00-5:30 or 6pm (in MEB hallway near SoC front office)
 
 The class will have a poster session where each group will present their projects.  This will be open to a general audience.  Each group is responsible for one poster.  
 Posters will be available by around 3pm in the MEB main office.  
