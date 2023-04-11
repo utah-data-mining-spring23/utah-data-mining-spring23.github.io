@@ -271,10 +271,10 @@
     - date: 4/10  
       format: Lecture (Ana)
       theme:  <b>Graphs</b>
-      topics: PageRank
+      topics: Matrix completion; PageRank
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
-      recording: "" 
-      slides: "https://drive.google.com/file/d/1G9sMbDMq5H0xrn_g5uaeO0yksFHQ0HfK/view?usp=share_link"
+      recording: "https://www.youtube.com/live/lyLjjyUeTTA?feature=share&t=25" 
+      slides: "https://drive.google.com/file/d/1tIbuItbblAQsr-rL4lQQGUgSj7oyQjKK/view?usp=sharing"
       readings: <a href="https://mathfordata.github.io/">M4D 10.2</a>; <a href="http://www.mmds.org/">MMDS 5.1 + 5.4</a>
       due: 
     - date: 4/12
