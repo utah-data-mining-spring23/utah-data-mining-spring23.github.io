@@ -284,7 +284,7 @@
       notes: https://www.cs.utah.edu/~jeffp/DMBook/L23-PageRank.pdf
       recording: "https://www.youtube.com/live/JkeUoHFgxzE?feature=share&t=35" 
       slides: "https://drive.google.com/file/d/1GphiC6zzn4lst6ssYmAjQT-8BIbrH14Z/view?usp=share_link"
-      readings: <a href="http://www.mmds.org/">MMDS 2</a>
+      readings: <a href="http://www.mmds.org/">MMDS 5</a>
       due: <span style="color:purple">Project final report due</span>
 
 - week: 15
@@ -292,11 +292,11 @@
     - date: 4/17
       format: Lecture (Ana)
       theme:  cont.
-      topics: MapReduce; Communities
-      notes: https://www.cs.utah.edu/~jeffp/DMBook/L25-Communities.pdf
+      topics: MapReduce 
+      notes: https://users.cs.utah.edu/~jeffp/DMBook/L24-MapReduce.pdf
       recording: "" 
       slides: ""
-      readings: <a href="https://users.cs.utah.edu/~jeffp/DMBook/L24-MapReduce.pdf">MapReduce Notes</a>;<a href="https://mathfordata.github.io/">M4D 10.4</a>; <a href="http://www.mmds.org/">MMDS 10.2 + 5.5</a>; <a href="http://www.cs.cornell.edu/jeh/book.pdf">FoDS 8.8 + 3.4</a>
+      readings: <a href="http://www.mmds.org/">MMDS 2</a>
       due: <span style="color:purple">Project poster outline due</span>
     - date: 4/19
       format: Lecture (Ana)
