@@ -198,6 +198,8 @@ State this clearly in the beginning; try to make me excited to read the remainde
 
 **Poster size MUST be 24 x 36 inches**
 
+**Submit to Gradescope.**
+
 **Presented April 24** at 3:00-5:30 or 6pm (in MEB hallway near SoC front office)
 
 The class will have a poster session where each group will present their projects.  This will be open to a general audience.  Each group is responsible for one poster.  
@@ -237,20 +239,19 @@ At the poster session there will be easels, foam boards,  and clips that can sup
 
 **advanced / one-big-image:**  You can use applications like Powerpoint, Keynote, LucidChart, Omnigraffle, Illustrator, or IPE to create a single large slide.  
 The pdf file should be called `firstname-lastname.pdf` (e.g., `ana-marasovic.pdf`; `firstname-lastname` replaced with one of the actual names of you group members) and the department will print it for you.  
-If you make this to scale at 3 feet by 2 feet (either orientation), then the department will print it for you.  This should still have a clear title and narrative flow.  Other than including the key points, GO WILD, and do whatever you can imagine!  
+If you make this to scale at 24 x 36 (either orientation), then the department will print it for you.  This should still have a clear title and narrative flow.  Other than including the key points, GO WILD, and do whatever you can imagine!  
 
-After your poster outline has been approved by the instructor or TA (see below) and you are satisfied to print the poster, add note on canvas saying this is the FINAL version.  Once you do this, you may not be allowed to make changes.  This final note must be made by **9am on April 20**,
-or it might not be printed (unless you have been granted an extension for extra revisions).  
+After your poster outline has been approved by the instructor or TA (see below) and you are satisfied to print the poster, add note on Gradescope saying this is the FINAL version.  Once you do this, you may not be allowed to make changes.  This final note must be made by **9am on April 20**, or it might not be printed.
 
 **Your poster is not complete until it has been approved by me or TAs!**
-Make sure the poster is in pdf format and is 3x2 feet, otherwise it will not be printed.  
+Make sure the poster is in pdf format and is 24 x 36 feet, otherwise it will not be printed.  
 Unless required for a special creative angle, the **background should be white**.  
 Early submissions are greatly appreciated.  
 
 
 ### Poster Outline
 
-A poster outline will need to be turned in (via canvas) by **by April 17** at **5pm**.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth **5 points** towards the poster presentation.  Early submissions are much appreciated.  
+A poster outline will need to be turned in (via Gradescope) by **by April 17** at **5pm**.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth **5 points** towards the poster presentation.  Early submissions are much appreciated.  
 
 You are also encouraged to stop by during office hours to discuss with the instructor or a TA.  
 The outline should include a draft of the poster (either as a set of slides) or as a single document.  It should be near complete, so that the instructor/TA can make concrete suggestions to improve the poster.  
