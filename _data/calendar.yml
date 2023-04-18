@@ -294,8 +294,8 @@
       theme:  cont.
       topics: MapReduce 
       notes: https://users.cs.utah.edu/~jeffp/DMBook/L24-MapReduce.pdf
-      recording:  
-      slides: "https://drive.google.com/file/d/1QWY-p68MbdRx6gC3JpHRaWSUy2RErofT/view?usp=share_link"
+      recording:  "https://www.youtube.com/live/f4OcXbcHRag?feature=share&t=23"
+      slides: "https://drive.google.com/file/d/1AvLKbyYq4E_z9cnhDQpa4IP_44-WAe2E/view?usp=share_link"
       readings: <a href="http://www.mmds.org/">MMDS 2</a>
       due: <span style="color:purple">Project poster outline due</span>
     - date: 4/19

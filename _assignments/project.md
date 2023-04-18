@@ -44,7 +44,7 @@ Project options may include:
 * propose and test extension to techniques from class on a real data set
 
 ### No double dipping projects across multiple classes
-
+A
 You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
 
 ### Late project components
@@ -251,7 +251,7 @@ Early submissions are greatly appreciated.
 
 ### Poster Outline
 
-A poster outline will need to be turned in (via Gradescope) by **by April 17** at **5pm**.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth **5 points** towards the poster presentation.  Early submissions are much appreciated.  
+A poster outline will need to be turned in (via Gradescope) **by April 17** at **5pm**.  This is to be the first full draft; but you can continue tweaking after this step.  Successful completion of this component is worth **5 points** towards the poster presentation.  Early submissions are much appreciated.  
 
 You are also encouraged to stop by during office hours to discuss with the instructor or a TA.  
 The outline should include a draft of the poster (either as a set of slides) or as a single document.  It should be near complete, so that the instructor/TA can make concrete suggestions to improve the poster.  
