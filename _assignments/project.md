@@ -241,8 +241,6 @@ At the poster session there will be easels, foam boards,  and clips that can sup
 The pdf file should be called `firstname-lastname.pdf` (e.g., `ana-marasovic.pdf`; `firstname-lastname` replaced with one of the actual names of you group members) and the department will print it for you.  
 If you make this to scale at 24 x 36 (either orientation), then the department will print it for you.  This should still have a clear title and narrative flow.  Other than including the key points, GO WILD, and do whatever you can imagine!  
 
-After your poster outline has been approved by the instructor or TA (see below) and you are satisfied to print the poster, add note on Gradescope saying this is the FINAL version.  Once you do this, you may not be allowed to make changes.  This final note must be made by **9am on April 20**, or it might not be printed.
-
 **Your poster is not complete until it has been approved by me or TAs!**
 Make sure the poster is in pdf format and is 24 x 36 feet, otherwise it will not be printed.  
 Unless required for a special creative angle, the **background should be white**.  
